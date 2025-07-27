@@ -1,0 +1,425 @@
+{
+  "chapter_info": {
+    "book": {
+      "en": "Genesis",
+      "fa": "پیدایش"
+    },
+    "chapter": 1,
+    "total_verses": 31,
+    "description": "فصل اول کتاب پیدایش - آفرینش جهان و انسان"
+  },
+  "verses": [
+    {
+      "id": 1,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 1,
+      "text": {
+        "en": "In the beginning God created the heaven and the earth.",
+        "fa": "در ابتدا خدا آسمانها و زمین را آفرید."
+      }
+    },
+    {
+      "id": 2,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 2,
+      "text": {
+        "en": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+        "fa": "و زمین تهی و باطل بود و تاریکی بر روی لجه و روح خدا بر روی آبها حرکت می‌کرد."
+      }
+    },
+    {
+      "id": 3,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 3,
+      "text": {
+        "en": "And God said, Let there be light: and there was light.",
+        "fa": "و خدا گفت روشنایی بشود و روشنایی شد."
+      }
+    },
+    {
+      "id": 4,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 4,
+      "text": {
+        "en": "And God saw the light, that it was good: and God divided the light from the darkness.",
+        "fa": "و خدا روشنایی را دید که نیکوست و خدا روشنایی را از تاریکی جدا کرد."
+      }
+    },
+    {
+      "id": 5,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 5,
+      "text": {
+        "en": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
+        "fa": "و خدا روشنایی را روز نامید و تاریکی را شب نامید. و شام بود و صبح بود روز اول."
+      }
+    },
+    {
+      "id": 6,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 6,
+      "text": {
+        "en": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
+        "fa": "و خدا گفت فلکی در میان آبها باشد و آبها را از آبها جدا کند."
+      }
+    },
+    {
+      "id": 7,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 7,
+      "text": {
+        "en": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.",
+        "fa": "و خدا فلک را ساخت و آبهای زیر فلک را از آبهای بالای فلک جدا کرد و چنین شد."
+      }
+    },
+    {
+      "id": 8,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 8,
+      "text": {
+        "en": "And God called the firmament Heaven. And the evening and the morning were the second day.",
+        "fa": "و خدا فلک را آسمان نامید. و شام بود و صبح بود روز دوم."
+      }
+    },
+    {
+      "id": 9,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 9,
+      "text": {
+        "en": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.",
+        "fa": "و خدا گفت آبهای زیر آسمان در یک جا جمع شود و خشکی ظاهر گردد و چنین شد."
+      }
+    },
+    {
+      "id": 10,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 10,
+      "text": {
+        "en": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.",
+        "fa": "و خدا خشکی را زمین نامید و اجتماع آبها را دریاها نامید. و خدا دید که نیکوست."
+      }
+    },
+    {
+      "id": 11,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 11,
+      "text": {
+        "en": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.",
+        "fa": "و خدا گفت زمین سبزه‌ها را برویاند و علف تخم‌دار و درخت میوه‌دار که به نوع خود میوه‌آورد که تخم آن در خودش باشد بر زمین. و چنین شد."
+      }
+    },
+    {
+      "id": 12,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 12,
+      "text": {
+        "en": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.",
+        "fa": "و زمین سبزه‌ها را رویانید و علف تخم‌دار به نوع خود و درخت میوه‌دار که تخم آن در خودش باشد به نوع خود. و خدا دید که نیکوست."
+      }
+    },
+    {
+      "id": 13,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 13,
+      "text": {
+        "en": "And the evening and the morning were the third day.",
+        "fa": "و شام بود و صبح بود روز سوم."
+      }
+    },
+    {
+      "id": 14,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 14,
+      "text": {
+        "en": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years.",
+        "fa": "و خدا گفت روشنایی‌ها در فلک آسمان باشند تا روز را از شب جدا کنند و برای علامات و مواسم و روزها و سالها باشند."
+      }
+    },
+    {
+      "id": 15,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 15,
+      "text": {
+        "en": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.",
+        "fa": "و روشنایی‌ها در فلک آسمان باشند تا بر زمین روشنایی دهند و چنین شد."
+      }
+    },
+    {
+      "id": 16,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 16,
+      "text": {
+        "en": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.",
+        "fa": "و خدا دو روشنایی بزرگ ساخت. روشنایی بزرگتر برای حکمرانی روز و روشنایی کوچکتر برای حکمرانی شب و ستارگان را نیز ساخت."
+      }
+    },
+    {
+      "id": 17,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 17,
+      "text": {
+        "en": "And God set them in the firmament of the heaven to give light upon the earth.",
+        "fa": "و خدا آنها را در فلک آسمان گذاشت تا بر زمین روشنایی دهند."
+      }
+    },
+    {
+      "id": 18,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 18,
+      "text": {
+        "en": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.",
+        "fa": "و برای حکمرانی بر روز و بر شب و برای جدا کردن روشنایی از تاریکی. و خدا دید که نیکوست."
+      }
+    },
+    {
+      "id": 19,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 19,
+      "text": {
+        "en": "And the evening and the morning were the fourth day.",
+        "fa": "و شام بود و صبح بود روز چهارم."
+      }
+    },
+    {
+      "id": 20,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 20,
+      "text": {
+        "en": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.",
+        "fa": "و خدا گفت آبها به فراوانی جانوران زنده را تولید کنند و پرندگان بر زمین در فلک آسمان پرواز کنند."
+      }
+    },
+    {
+      "id": 21,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 21,
+      "text": {
+        "en": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.",
+        "fa": "و خدا نهنگان بزرگ و همه جانوران زنده را که حرکت می‌کنند که آبها به فراوانی تولید کردند به نوع خود و همه پرندگان بالدار را به نوع خود آفرید. و خدا دید که نیکوست."
+      }
+    },
+    {
+      "id": 22,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 22,
+      "text": {
+        "en": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.",
+        "fa": "و خدا آنها را برکت داد و گفت بارور و کثیر شوید و آبهای دریاها را پر کنید و پرندگان در زمین کثیر شوند."
+      }
+    },
+    {
+      "id": 23,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 23,
+      "text": {
+        "en": "And the evening and the morning were the fifth day.",
+        "fa": "و شام بود و صبح بود روز پنجم."
+      }
+    },
+    {
+      "id": 24,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 24,
+      "text": {
+        "en": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
+        "fa": "و خدا گفت زمین جانوران زنده را به نوع خود تولید کند بهایم و حشرات و حیوانات زمین را به نوع خود. و چنین شد."
+      }
+    },
+    {
+      "id": 25,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 25,
+      "text": {
+        "en": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.",
+        "fa": "و خدا حیوانات زمین را به نوع خود و بهایم را به نوع خود و همه حشرات زمین را به نوع خود ساخت. و خدا دید که نیکوست."
+      }
+    },
+    {
+      "id": 26,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 26,
+      "text": {
+        "en": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+        "fa": "و خدا گفت انسان را به صورت خود و به شباهت خود بسازیم تا بر ماهیان دریا و بر پرندگان آسمان و بر بهایم و بر تمامی زمین و بر همه حشراتی که بر زمین می‌خزند حکمرانی کند."
+      }
+    },
+    {
+      "id": 27,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 27,
+      "text": {
+        "en": "So God created man in his own image, in the image of God created he him; male and female created he them.",
+        "fa": "پس خدا انسان را به صورت خود آفرید. او را به صورت خدا آفرید. ایشان را نر و ماده آفرید."
+      }
+    },
+    {
+      "id": 28,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 28,
+      "text": {
+        "en": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
+        "fa": "و خدا ایشان را برکت داد و خدا به ایشان گفت بارور و کثیر شوید و زمین را پر کنید و در آن تسلط یابید و بر ماهیان دریا و بر پرندگان آسمان و بر همه حیواناتی که بر زمین حرکت می‌کنند حکمرانی کنید."
+      }
+    },
+    {
+      "id": 29,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 29,
+      "text": {
+        "en": "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.",
+        "fa": "و خدا گفت اینک تمامی علفهای تخم‌دار را که بر روی تمامی زمین است و تمامی درختانی را که در آنها میوه درخت تخم‌دار است به شما دادم. برای خوراک شما باشد."
+      }
+    },
+    {
+      "id": 30,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 30,
+      "text": {
+        "en": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.",
+        "fa": "و برای همه حیوانات زمین و برای همه پرندگان آسمان و برای همه حشراتی که بر زمین حرکت می‌کنند که در آنها حیات است هر علف سبز را برای خوراک دادم. و چنین شد."
+      }
+    },
+    {
+      "id": 31,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 31,
+      "text": {
+        "en": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.",
+        "fa": "و خدا هر چه ساخته بود دید و اینک بسیار نیکوست. و شام بود و صبح بود روز ششم."
+      }
+    }
+  ],
+  "metadata": {
+    "description": "فصل اول کتاب پیدایش - آفرینش جهان و انسان",
+    "total_verses": 31,
+    "languages": {
+      "persian": "POV (Persian Open Version)",
+      "english": "KJV (King James Version)"
+    },
+    "created_date": "2024"
+  }
+}

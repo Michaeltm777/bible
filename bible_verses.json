@@ -1,0 +1,4758 @@
+{
+  "bible_verses": [
+    {
+      "id": 1,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 3,
+      "verse": 16,
+      "text": {
+        "en": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+        "fa": "زیرا خدا جهان را آنقدر محبت کرد که پسر یگانه خود را داد تا هر که به او ایمان آورد هلاک نگردد بلکه حیات جاودانی یابد."
+      }
+    },
+    {
+      "id": 2,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 23,
+      "verse": 1,
+      "text": {
+        "en": "The LORD is my shepherd; I shall not want.",
+        "fa": "خداوند شبان من است، کم نخواهم داشت."
+      }
+    },
+    {
+      "id": 3,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 28,
+      "verse": 19,
+      "text": {
+        "en": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.",
+        "fa": "پس بروید و تمام قوم‌ها را شاگرد سازید و ایشان را به نام پدر و پسر و روح‌القدس تعمید دهید."
+      }
+    },
+    {
+      "id": 4,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 8,
+      "verse": 28,
+      "text": {
+        "en": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose.",
+        "fa": "و می‌دانیم که همه چیزها برای خیریت کسانی که خدا را دوست می‌دارند و بر طبق اراده او خوانده شده‌اند با هم کار می‌کنند."
+      }
+    },
+    {
+      "id": 5,
+      "book": {
+        "en": "Philippians",
+        "fa": "فیلیپیان"
+      },
+      "chapter": 4,
+      "verse": 13,
+      "text": {
+        "en": "I can do all things through Christ which strengtheneth me.",
+        "fa": "من می‌توانم همه چیز را در مسیح که مرا قوت می‌دهد انجام دهم."
+      }
+    },
+    {
+      "id": 6,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 119,
+      "verse": 105,
+      "text": {
+        "en": "Thy word is a lamp unto my feet, and a light unto my path.",
+        "fa": "کلام تو چراغ پای من و نور راه من است."
+      }
+    },
+    {
+      "id": 7,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 40,
+      "verse": 31,
+      "text": {
+        "en": "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint.",
+        "fa": "اما کسانی که منتظر خداوند هستند قوت تازه خواهند یافت و مثل عقاب پرواز خواهند کرد و خواهند دوید و خسته نخواهند شد و خواهند راه رفت و ضعیف نخواهند شد."
+      }
+    },
+    {
+      "id": 8,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 6,
+      "verse": 33,
+      "text": {
+        "en": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.",
+        "fa": "بلکه اول ملکوت خدا و عدالت او را بطلبید و همه این چیزها نیز به شما داده خواهد شد."
+      }
+    },
+    {
+      "id": 9,
+      "book": {
+        "en": "Hebrews",
+        "fa": "عبرانیان"
+      },
+      "chapter": 11,
+      "verse": 1,
+      "text": {
+        "en": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+        "fa": "و ایمان، یقین امیدهای ما و برهان چیزهایی است که دیده نمی‌شود."
+      }
+    },
+    {
+      "id": 10,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 14,
+      "verse": 6,
+      "text": {
+        "en": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+        "fa": "عیسی به او گفت: من راه و راستی و حیات هستم. هیچ‌کس نزد پدر نمی‌آید مگر به وسیله من."
+      }
+    },
+    {
+      "id": 11,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 1,
+      "verse": 1,
+      "text": {
+        "en": "In the beginning God created the heaven and the earth.",
+        "fa": "در ابتدا خدا آسمان و زمین را آفرید."
+      }
+    },
+    {
+      "id": 12,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 3,
+      "verse": 5,
+      "text": {
+        "en": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+        "fa": "بر خداوند توکل نما به تمام دل خود و بر فهم خود تکیه مکن."
+      }
+    },
+    {
+      "id": 13,
+      "book": {
+        "en": "Jeremiah",
+        "fa": "ارمیا"
+      },
+      "chapter": 29,
+      "verse": 11,
+      "text": {
+        "en": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+        "fa": "زیرا من افکار خود را که درباره شما دارم می‌دانم، می‌گوید خداوند، افکار سلامتی و نه بلا، تا آخرت و امیدواریتان را به شما بدهم."
+      }
+    },
+    {
+      "id": 14,
+      "book": {
+        "en": "Joshua",
+        "fa": "یوشع"
+      },
+      "chapter": 1,
+      "verse": 9,
+      "text": {
+        "en": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
+        "fa": "مگر من تو را امر نکردم؟ قوی و دلیر باش و مترس و هراسان مباش زیرا یهوه خدایت با توست در هر جا که بروی."
+      }
+    },
+    {
+      "id": 15,
+      "book": {
+        "en": "Galatians",
+        "fa": "غلاطیان"
+      },
+      "chapter": 5,
+      "verse": 22,
+      "text": {
+        "en": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith.",
+        "fa": "لیکن ثمر روح محبت و خوشی و سلامتی و تحمل و مهربانی و نیکویی و ایمان است."
+      }
+    },
+    {
+      "id": 16,
+      "book": {
+        "en": "Deuteronomy",
+        "fa": "تثنیه"
+      },
+      "chapter": 31,
+      "verse": 6,
+      "text": {
+        "en": "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+        "fa": "قوی و دلیر باش و از ایشان مترس و هراسان مباش زیرا یهوه خدایت با تو می‌رود و تو را وا نخواهد گذاشت و ترک نخواهد کرد."
+      }
+    },
+    {
+      "id": 17,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 13,
+      "verse": 4,
+      "text": {
+        "en": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up.",
+        "fa": "محبت صبور است و مهربان. محبت حسد نمی‌برد. محبت فخر نمی‌کند و متکبر نیست."
+      }
+    },
+    {
+      "id": 18,
+      "book": {
+        "en": "Exodus",
+        "fa": "خروج"
+      },
+      "chapter": 14,
+      "verse": 14,
+      "text": {
+        "en": "The LORD shall fight for you, and ye shall hold your peace.",
+        "fa": "خداوند برای شما جنگ خواهد کرد و شما خاموش خواهید بود."
+      }
+    },
+    {
+      "id": 19,
+      "book": {
+        "en": "2 Timothy",
+        "fa": "دوم تیموتائوس"
+      },
+      "chapter": 1,
+      "verse": 7,
+      "text": {
+        "en": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+        "fa": "زیرا خدا به ما روح ترس نداده است بلکه روح قوت و محبت و تعقل."
+      }
+    },
+    {
+      "id": 20,
+      "book": {
+        "en": "Lamentations",
+        "fa": "مراثی"
+      },
+      "chapter": 3,
+      "verse": 23,
+      "text": {
+        "en": "They are new every morning: great is thy faithfulness.",
+        "fa": "هر صبح تازه می‌شوند. وفاداری تو عظیم است."
+      }
+    },
+    {
+      "id": 21,
+      "book": {
+        "en": "James",
+        "fa": "یعقوب"
+      },
+      "chapter": 1,
+      "verse": 5,
+      "text": {
+        "en": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+        "fa": "و اگر کسی از شما حکمت کم دارد از خدا بطلبد که به همه به سخاوت می‌دهد و ملامت نمی‌کند و به او داده خواهد شد."
+      }
+    },
+    {
+      "id": 22,
+      "book": {
+        "en": "1 Peter",
+        "fa": "اول پطرس"
+      },
+      "chapter": 5,
+      "verse": 7,
+      "text": {
+        "en": "Casting all your care upon him; for he careth for you.",
+        "fa": "تمام اندوه خود را بر او افکنید زیرا او برای شما فکر می‌کند."
+      }
+    },
+    {
+      "id": 23,
+      "book": {
+        "en": "Colossians",
+        "fa": "کولسیان"
+      },
+      "chapter": 3,
+      "verse": 23,
+      "text": {
+        "en": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men.",
+        "fa": "و هر چه می‌کنید از دل بکنید چنانکه برای خداوند و نه برای مردم."
+      }
+    },
+    {
+      "id": 24,
+      "book": {
+        "en": "Nahum",
+        "fa": "ناحوم"
+      },
+      "chapter": 1,
+      "verse": 7,
+      "text": {
+        "en": "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+        "fa": "خداوند نیکوست و در روز تنگی ملجأ قوی است و آنانی را که بر او توکل دارند می‌شناسد."
+      }
+    },
+    {
+      "id": 25,
+      "book": {
+        "en": "Ephesians",
+        "fa": "افسسیان"
+      },
+      "chapter": 2,
+      "verse": 8,
+      "text": {
+        "en": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.",
+        "fa": "زیرا به فیض نجات یافته‌اید و این از شما نیست بلکه عطای خداست."
+      }
+    },
+    {
+      "id": 26,
+      "book": {
+        "en": "2 Corinthians",
+        "fa": "دوم قرنتیان"
+      },
+      "chapter": 5,
+      "verse": 17,
+      "text": {
+        "en": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+        "fa": "پس اگر کسی در مسیح باشد خلقت تازه است. چیزهای کهنه درگذشت. اینک همه چیز تازه شده است."
+      }
+    },
+    {
+      "id": 27,
+      "book": {
+        "en": "1 John",
+        "fa": "اول یوحنا"
+      },
+      "chapter": 4,
+      "verse": 19,
+      "text": {
+        "en": "We love him, because he first loved us.",
+        "fa": "ما محبت می‌کنیم چون او اول ما را محبت نمود."
+      }
+    },
+    {
+      "id": 28,
+      "book": {
+        "en": "Titus",
+        "fa": "تیطس"
+      },
+      "chapter": 3,
+      "verse": 5,
+      "text": {
+        "en": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost.",
+        "fa": "نه از اعمال نیکویی که ما کرده بودیم بلکه بر حسب رحمت خود ما را نجات داد به غسل تولد تازه و تازگی روح‌القدس."
+      }
+    },
+    {
+      "id": 29,
+      "book": {
+        "en": "Zephaniah",
+        "fa": "صفنیا"
+      },
+      "chapter": 3,
+      "verse": 17,
+      "text": {
+        "en": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.",
+        "fa": "یهوه خدایت در میان تو قادر است. او نجات خواهد داد و به تو شادی خواهد کرد. او در محبت خود ساکت خواهد بود و به تو با آواز شادی خواهد کرد."
+      }
+    },
+    {
+      "id": 30,
+      "book": {
+        "en": "Revelation",
+        "fa": "مکاشفه"
+      },
+      "chapter": 21,
+      "verse": 4,
+      "text": {
+        "en": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.",
+        "fa": "و خدا هر اشکی را از چشمان ایشان پاک خواهد کرد و دیگر موت نخواهد بود و نه ماتم و نه فریاد و نه درد دیگر نخواهد بود زیرا چیزهای اول درگذشت."
+      }
+    },
+    {
+      "id": 31,
+      "book": {
+        "en": "Numbers",
+        "fa": "اعداد"
+      },
+      "chapter": 6,
+      "verse": 24,
+      "text": {
+        "en": "The LORD bless thee, and keep thee.",
+        "fa": "خداوند تو را برکت دهد و تو را نگاه دارد."
+      }
+    },
+    {
+      "id": 32,
+      "book": {
+        "en": "Leviticus",
+        "fa": "لاویان"
+      },
+      "chapter": 19,
+      "verse": 18,
+      "text": {
+        "en": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.",
+        "fa": "انتقام مگیر و از بنی قوم خود کینه مگیر بلکه همسایه خود را مثل خویشتن محبت نما. من یهوه هستم."
+      }
+    },
+    {
+      "id": 33,
+      "book": {
+        "en": "Judges",
+        "fa": "داوران"
+      },
+      "chapter": 6,
+      "verse": 12,
+      "text": {
+        "en": "And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour.",
+        "fa": "و فرشته خداوند بر او ظاهر شده، گفت: یهوه با توست ای مرد شجاع."
+      }
+    },
+    {
+      "id": 34,
+      "book": {
+        "en": "Ruth",
+        "fa": "روت"
+      },
+      "chapter": 1,
+      "verse": 16,
+      "text": {
+        "en": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.",
+        "fa": "و روت گفت: مرا مجبور مکن که تو را ترک کنم یا از عقب تو برگردم زیرا هر جا که تو بروی من خواهم رفت و هر جا که تو فرود آیی من فرود خواهم آمد. قوم تو قوم من و خدای تو خدای من خواهد بود."
+      }
+    },
+    {
+      "id": 35,
+      "book": {
+        "en": "1 Samuel",
+        "fa": "اول سموئیل"
+      },
+      "chapter": 16,
+      "verse": 7,
+      "text": {
+        "en": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.",
+        "fa": "و خداوند به سموئیل گفت: به رویش و بلندی قامتش منگر زیرا او را رد کرده‌ام. زیرا خداوند چنانکه انسان می‌بیند نمی‌بیند زیرا انسان به چشم می‌بیند و خداوند به دل می‌نگرد."
+      }
+    },
+    {
+      "id": 36,
+      "book": {
+        "en": "2 Samuel",
+        "fa": "دوم سموئیل"
+      },
+      "chapter": 22,
+      "verse": 2,
+      "text": {
+        "en": "And he said, The LORD is my rock, and my fortress, and my deliverer.",
+        "fa": "و گفت: یهوه صخره من و قلعه من و رهاننده من است."
+      }
+    },
+    {
+      "id": 37,
+      "book": {
+        "en": "1 Kings",
+        "fa": "اول پادشاهان"
+      },
+      "chapter": 8,
+      "verse": 27,
+      "text": {
+        "en": "But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?",
+        "fa": "اما آیا خدا حقیقتاً بر زمین ساکن خواهد شد؟ اینک آسمان و آسمان آسمانها تو را در بر نمی‌گیرد. پس این خانه‌ای که بنا کرده‌ام چقدر کمتر."
+      }
+    },
+    {
+      "id": 38,
+      "book": {
+        "en": "2 Kings",
+        "fa": "دوم پادشاهان"
+      },
+      "chapter": 6,
+      "verse": 16,
+      "text": {
+        "en": "And he answered, Fear not: for they that be with us are more than they that be with them.",
+        "fa": "و او جواب داد: مترس زیرا آنانی که با ما هستند بیشتر از آنانی هستند که با ایشان می‌باشند."
+      }
+    },
+    {
+      "id": 39,
+      "book": {
+        "en": "1 Chronicles",
+        "fa": "اول تواریخ"
+      },
+      "chapter": 16,
+      "verse": 34,
+      "text": {
+        "en": "O give thanks unto the LORD; for he is good; for his mercy endureth for ever.",
+        "fa": "خداوند را شکر کنید زیرا نیکوست زیرا رحمت او تا به ابد است."
+      }
+    },
+    {
+      "id": 40,
+      "book": {
+        "en": "2 Chronicles",
+        "fa": "دوم تواریخ"
+      },
+      "chapter": 7,
+      "verse": 14,
+      "text": {
+        "en": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.",
+        "fa": "و اگر قوم من که به نام من خوانده می‌شوند خود را فروتن سازند و دعا کنند و روی مرا بطلبند و از راههای بد خود برگردند آنگاه من از آسمان خواهم شنید و گناه ایشان را آمرزیده، زمین ایشان را شفا خواهم داد."
+      }
+    },
+    {
+      "id": 41,
+      "book": {
+        "en": "Ezra",
+        "fa": "عزرا"
+      },
+      "chapter": 7,
+      "verse": 10,
+      "text": {
+        "en": "For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.",
+        "fa": "زیرا عزرا دل خود را مهیا ساخته بود تا شریعت خداوند را بجوید و آن را به جا آورد و در اسرائیل فرایض و احکام را تعلیم دهد."
+      }
+    },
+    {
+      "id": 42,
+      "book": {
+        "en": "Nehemiah",
+        "fa": "نحمیا"
+      },
+      "chapter": 8,
+      "verse": 10,
+      "text": {
+        "en": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our LORD: neither be ye sorry; for the joy of the LORD is your strength.",
+        "fa": "و به ایشان گفت: بروید و چربی بخورید و شیرینی بنوشید و قسمت‌ها را برای کسانی که چیزی برای ایشان مهیا نشده بفرستید زیرا امروز برای خداوند ما مقدس است پس محزون مباشید زیرا شادی خداوند قوت شماست."
+      }
+    },
+    {
+      "id": 43,
+      "book": {
+        "en": "Esther",
+        "fa": "استر"
+      },
+      "chapter": 4,
+      "verse": 14,
+      "text": {
+        "en": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?",
+        "fa": "زیرا اگر تو در این وقت سکوت کنی نجات و رهایی برای یهودیان از جای دیگر پدید خواهد آمد اما تو و خاندان پدرت هلاک خواهید شد و کی می‌داند که آیا تو برای چنین وقتی به پادشاهی رسیده‌ای."
+      }
+    },
+    {
+      "id": 44,
+      "book": {
+        "en": "Job",
+        "fa": "ایوب"
+      },
+      "chapter": 1,
+      "verse": 21,
+      "text": {
+        "en": "And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.",
+        "fa": "و گفت: عریان از رحم مادرم بیرون آمدم و عریان به آنجا برخواهم گشت. خداوند داد و خداوند گرفت. نام خداوند متبارک باد."
+      }
+    },
+    {
+      "id": 45,
+      "book": {
+        "en": "Ecclesiastes",
+        "fa": "جامعه"
+      },
+      "chapter": 3,
+      "verse": 1,
+      "text": {
+        "en": "To every thing there is a season, and a time to every purpose under the heaven.",
+        "fa": "برای هر چیز زمانی و برای هر مقصودی تحت آسمان وقتی است."
+      }
+    },
+    {
+      "id": 46,
+      "book": {
+        "en": "Song of Solomon",
+        "fa": "غزل غزلهای سلیمان"
+      },
+      "chapter": 2,
+      "verse": 4,
+      "text": {
+        "en": "He brought me to the banqueting house, and his banner over me was love.",
+        "fa": "مرا به خانه شرابخانه درآورد و پرچم او بر من محبت بود."
+      }
+    },
+    {
+      "id": 47,
+      "book": {
+        "en": "Daniel",
+        "fa": "دانیال"
+      },
+      "chapter": 3,
+      "verse": 17,
+      "text": {
+        "en": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.",
+        "fa": "اگر چنین باشد خدای ما که ما او را عبادت می‌کنیم قادر است که ما را از کوره آتشین مشتعل رهایی دهد و از دست تو ای پادشاه ما را نجات خواهد داد."
+      }
+    },
+    {
+      "id": 48,
+      "book": {
+        "en": "Hosea",
+        "fa": "هوشع"
+      },
+      "chapter": 6,
+      "verse": 6,
+      "text": {
+        "en": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.",
+        "fa": "زیرا محبت را می‌خواهم و نه قربانی را و معرفت خدا را بیشتر از سوختنی‌ها."
+      }
+    },
+    {
+      "id": 49,
+      "book": {
+        "en": "Joel",
+        "fa": "یوئیل"
+      },
+      "chapter": 2,
+      "verse": 25,
+      "text": {
+        "en": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+        "fa": "و سالهایی را که ملخ خورده است برای شما تلافی خواهم کرد، کرم و ملخ و ملخ صحرایی و ملخ چرنده، لشکر عظیم من که در میان شما فرستادم."
+      }
+    },
+    {
+      "id": 50,
+      "book": {
+        "en": "Amos",
+        "fa": "عاموس"
+      },
+      "chapter": 5,
+      "verse": 24,
+      "text": {
+        "en": "But let judgment run down as waters, and righteousness as a mighty stream.",
+        "fa": "بلکه داوری مثل آب جاری شود و عدالت مثل نهر قوی."
+      }
+    },
+    {
+      "id": 51,
+      "book": {
+        "en": "Obadiah",
+        "fa": "عوبدیا"
+      },
+      "chapter": 1,
+      "verse": 4,
+      "text": {
+        "en": "Though thou exalt thyself as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.",
+        "fa": "اگر خود را مثل عقاب بلند کنی و اگر لانه خود را در میان ستارگان بگذاری از آنجا تو را فرود خواهم آورد، می‌گوید خداوند."
+      }
+    },
+    {
+      "id": 52,
+      "book": {
+        "en": "Jonah",
+        "fa": "یونس"
+      },
+      "chapter": 2,
+      "verse": 9,
+      "text": {
+        "en": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.",
+        "fa": "اما من با آواز شکرگزاری برای تو قربانی خواهم کرد. آنچه نذر کرده‌ام ادا خواهم نمود. نجات از خداوند است."
+      }
+    },
+    {
+      "id": 53,
+      "book": {
+        "en": "Micah",
+        "fa": "میکاه"
+      },
+      "chapter": 6,
+      "verse": 8,
+      "text": {
+        "en": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+        "fa": "ای انسان او تو را نشان داده است که چه چیز نیکوست و خداوند از تو چه می‌طلبد مگر اینکه انصاف را به جا آوری و رحمت را دوست بداری و با خدای خود فروتنانه رفتار کنی."
+      }
+    },
+    {
+      "id": 54,
+      "book": {
+        "en": "Habakkuk",
+        "fa": "حبقوق"
+      },
+      "chapter": 2,
+      "verse": 4,
+      "text": {
+        "en": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.",
+        "fa": "اینک نفس متکبر در او راست نیست اما عادل به ایمان خود زیست خواهد کرد."
+      }
+    },
+    {
+      "id": 55,
+      "book": {
+        "en": "Zechariah",
+        "fa": "زکریا"
+      },
+      "chapter": 4,
+      "verse": 6,
+      "text": {
+        "en": "Then he answered and spake unto me, saying, This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.",
+        "fa": "پس جواب داده، مرا خطاب کرده، گفت: این کلام خداوند به زربابل است که می‌گوید: نه به قوت و نه به توانایی بلکه به روح من، می‌گوید خداوند صبایوت."
+      }
+    },
+    {
+      "id": 56,
+      "book": {
+        "en": "Malachi",
+        "fa": "ملاکی"
+      },
+      "chapter": 3,
+      "verse": 10,
+      "text": {
+        "en": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+        "fa": "تمامی عشرها را به خزانه درآورید تا در خانه من خوراک باشد و مرا در این امر امتحان کنید، می‌گوید خداوند صبایوت، اگر من روزنه‌های آسمان را برای شما نگشایم و برکت را بر شما فرو نریزم تا جای کافی نباشد."
+      }
+    },
+    {
+      "id": 57,
+      "book": {
+        "en": "Mark",
+        "fa": "مرقس"
+      },
+      "chapter": 10,
+      "verse": 27,
+      "text": {
+        "en": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.",
+        "fa": "عیسی ایشان را نگریسته، گفت: نزد انسان محال است اما نزد خدا نه، زیرا نزد خدا همه چیز ممکن است."
+      }
+    },
+    {
+      "id": 58,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 1,
+      "verse": 37,
+      "text": {
+        "en": "For with God nothing shall be impossible.",
+        "fa": "زیرا نزد خدا هیچ‌چیز محال نخواهد بود."
+      }
+    },
+    {
+      "id": 59,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 1,
+      "verse": 8,
+      "text": {
+        "en": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.",
+        "fa": "لیکن چون روح‌القدس بر شما آید قوت خواهید یافت و در اورشلیم و تمام یهودیه و سامره و تا اقصای زمین بر من شاهد خواهید بود."
+      }
+    },
+    {
+      "id": 60,
+      "book": {
+        "en": "1 Thessalonians",
+        "fa": "اول تسالونیکیان"
+      },
+      "chapter": 5,
+      "verse": 18,
+      "text": {
+        "en": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+        "fa": "در هر چیز شکر کنید زیرا این اراده خداست در مسیح عیسی درباره شما."
+      }
+    },
+    {
+      "id": 61,
+      "book": {
+        "en": "2 Thessalonians",
+        "fa": "دوم تسالونیکیان"
+      },
+      "chapter": 3,
+      "verse": 3,
+      "text": {
+        "en": "But the Lord is faithful, who shall stablish you, and keep you from evil.",
+        "fa": "لیکن خداوند امین است که شما را استوار و از شریر محفوظ خواهد داشت."
+      }
+    },
+    {
+      "id": 62,
+      "book": {
+        "en": "1 Timothy",
+        "fa": "اول تیموتائوس"
+      },
+      "chapter": 6,
+      "verse": 12,
+      "text": {
+        "en": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.",
+        "fa": "جنگ نیکوی ایمان را جنگ کن و حیات جاودانی را به چنگ آور که برای آن خوانده شده‌ای و اعتراف نیکو را در حضور بسیاری از شاهدین اظهار کرده‌ای."
+      }
+    },
+    {
+      "id": 63,
+      "book": {
+        "en": "2 Timothy",
+        "fa": "دوم تیموتائوس"
+      },
+      "chapter": 2,
+      "verse": 15,
+      "text": {
+        "en": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+        "fa": "خود را به خدا مقبول ساز و کارگری که شرمسار نباشد و کلام حق را به درستی تقسیم کند."
+      }
+    },
+    {
+      "id": 64,
+      "book": {
+        "en": "Philemon",
+        "fa": "فیلیمون"
+      },
+      "chapter": 1,
+      "verse": 6,
+      "text": {
+        "en": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
+        "fa": "تا مشارکت ایمان تو در شناخت هر چیز نیکویی که در شما در مسیح عیسی است موثر گردد."
+      }
+    },
+    {
+      "id": 65,
+      "book": {
+        "en": "1 Peter",
+        "fa": "اول پطرس"
+      },
+      "chapter": 3,
+      "verse": 15,
+      "text": {
+        "en": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear.",
+        "fa": "بلکه خداوند خدا را در دلهای خود مقدس بدارید و همیشه مستعد باشید تا هر کس از شما سبب امیدی که در شماست بپرسد با حلم و ترس جواب دهید."
+      }
+    },
+    {
+      "id": 66,
+      "book": {
+        "en": "2 Peter",
+        "fa": "دوم پطرس"
+      },
+      "chapter": 1,
+      "verse": 4,
+      "text": {
+        "en": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+        "fa": "که به آنها وعده‌های عظیم و گرانبها به ما داده شده تا به آنها شریک طبیعت الهی شوید و از فسادی که در جهان از طریق شهوت است خلاصی یابید."
+      }
+    },
+    {
+      "id": 67,
+      "book": {
+        "en": "1 John",
+        "fa": "اول یوحنا"
+      },
+      "chapter": 3,
+      "verse": 1,
+      "text": {
+        "en": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+        "fa": "ببینید چه محبتی پدر به ما داده است که فرزندان خدا خوانده شویم. از این سبب جهان ما را نمی‌شناسد چون او را نشناخت."
+      }
+    },
+    {
+      "id": 68,
+      "book": {
+        "en": "2 John",
+        "fa": "دوم یوحنا"
+      },
+      "chapter": 1,
+      "verse": 6,
+      "text": {
+        "en": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.",
+        "fa": "و این است محبت که به حسب احکام او رفتار کنیم. این است حکم که از ابتدا شنیده‌اید که در آن رفتار کنید."
+      }
+    },
+    {
+      "id": 69,
+      "book": {
+        "en": "3 John",
+        "fa": "سوم یوحنا"
+      },
+      "chapter": 1,
+      "verse": 4,
+      "text": {
+        "en": "I have no greater joy than to hear that my children walk in truth.",
+        "fa": "مرا از این شادی بزرگتر نیست که بشنوم فرزندانم در راستی رفتار می‌کنند."
+      }
+    },
+    {
+      "id": 70,
+      "book": {
+        "en": "Jude",
+        "fa": "یهودا"
+      },
+      "chapter": 1,
+      "verse": 24,
+      "text": {
+        "en": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy.",
+        "fa": "و حال به او که قادر است شما را از لغزش محفوظ دارد و شما را بی‌عیب در حضور جلال خود با شادی عظیم بایستاند."
+      }
+    },
+    {
+      "id": 71,
+      "book": {
+        "en": "Revelation",
+        "fa": "مکاشفه"
+      },
+      "chapter": 3,
+      "verse": 20,
+      "text": {
+        "en": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.",
+        "fa": "اینک من بر در ایستاده‌ام و می‌کوبم. اگر کسی آواز مرا بشنود و در را بگشاید نزد او داخل خواهم شد و با او شام خواهم خورد و او با من."
+      }
+    },
+    {
+      "id": 72,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 1,
+      "verse": 1,
+      "text": {
+        "en": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+        "fa": "خوشا به حال کسی که در مشورت شریران راه نمی‌رود و در راه گناهکاران نمی‌ایستد و در مجلس استهزاکنندگان نمی‌نشیند."
+      }
+    },
+    {
+      "id": 73,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 8,
+      "verse": 3,
+      "text": {
+        "en": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained.",
+        "fa": "چون آسمانهای تو را که صنعت انگشتان توست و ماه و ستارگانی را که تو مقرر داشته‌ای می‌بینم."
+      }
+    },
+    {
+      "id": 74,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 16,
+      "verse": 8,
+      "text": {
+        "en": "I have set the LORD always before me: because he is at my right hand, I shall not be moved.",
+        "fa": "خداوند را همیشه پیش روی خود گذاشته‌ام. چون او به دست راست من است جنبش نخواهم خورد."
+      }
+    },
+    {
+      "id": 75,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 19,
+      "verse": 1,
+      "text": {
+        "en": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+        "fa": "آسمانها جلال خدا را بیان می‌کنند و فلک کار دستهای او را نشان می‌دهد."
+      }
+    },
+    {
+      "id": 76,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 27,
+      "verse": 1,
+      "text": {
+        "en": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?",
+        "fa": "خداوند نور و نجات من است. از که بترسم؟ خداوند قلعه حیات من است. از که هراسان شوم؟"
+      }
+    },
+    {
+      "id": 77,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 34,
+      "verse": 8,
+      "text": {
+        "en": "O taste and see that the LORD is good: blessed is the man that trusteth in him.",
+        "fa": "بچشید و ببینید که خداوند نیکوست. خوشا به حال کسی که بر او توکل دارد."
+      }
+    },
+    {
+      "id": 78,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 37,
+      "verse": 4,
+      "text": {
+        "en": "Delight thyself also in the LORD; and he shall give thee the desires of thine heart.",
+        "fa": "و در خداوند شادی کن و او مراد دل تو را به تو خواهد داد."
+      }
+    },
+    {
+      "id": 79,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 46,
+      "verse": 1,
+      "text": {
+        "en": "God is our refuge and strength, a very present help in trouble.",
+        "fa": "خدا ملجأ و قوت ماست و در تنگی‌ها کمک حاضر."
+      }
+    },
+    {
+      "id": 80,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 51,
+      "verse": 10,
+      "text": {
+        "en": "Create in me a clean heart, O God; and renew a right spirit within me.",
+        "fa": "ای خدا دل پاک در من بیافرین و روح راست را در باطن من تازه کن."
+      }
+    },
+    {
+      "id": 81,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 84,
+      "verse": 11,
+      "text": {
+        "en": "For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly.",
+        "fa": "زیرا خداوند خدا آفتاب و سپر است. خداوند فیض و جلال خواهد داد. خداوند هیچ چیز نیکو را از کسانی که در راستی رفتار می‌کنند دریغ نخواهد داشت."
+      }
+    },
+    {
+      "id": 82,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 91,
+      "verse": 1,
+      "text": {
+        "en": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.",
+        "fa": "کسی که در پناه حضرت اعلی ساکن است در سایه قادر مطلق فرود خواهد آمد."
+      }
+    },
+    {
+      "id": 83,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 100,
+      "verse": 4,
+      "text": {
+        "en": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name.",
+        "fa": "به دروازه‌های او با شکرگزاری و به صحنهای او با تسبیح داخل شوید. او را شکر کنید و نام او را متبارک بخوانید."
+      }
+    },
+    {
+      "id": 84,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 103,
+      "verse": 1,
+      "text": {
+        "en": "Bless the LORD, O my soul: and all that is within me, bless his holy name.",
+        "fa": "ای جان من خداوند را متبارک بخوان و تمامی آنچه در درون من است نام مقدس او را متبارک بخواند."
+      }
+    },
+    {
+      "id": 85,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 107,
+      "verse": 1,
+      "text": {
+        "en": "O give thanks unto the LORD, for he is good: for his mercy endureth for ever.",
+        "fa": "خداوند را شکر کنید زیرا نیکوست زیرا رحمت او تا به ابد است."
+      }
+    },
+    {
+      "id": 86,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 118,
+      "verse": 24,
+      "text": {
+        "en": "This is the day which the LORD hath made; we will rejoice and be glad in it.",
+        "fa": "این است روزی که خداوند ساخته است. در آن شادی و خوشحالی کنیم."
+      }
+    },
+    {
+      "id": 87,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 121,
+      "verse": 1,
+      "text": {
+        "en": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+        "fa": "چشمان خود را به سوی کوهها برمی‌افرازم که از آنجا مدد من می‌آید."
+      }
+    },
+    {
+      "id": 88,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 127,
+      "verse": 1,
+      "text": {
+        "en": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.",
+        "fa": "اگر خداوند خانه را بنا نکند بانیان باطلاً زحمت می‌کشند. اگر خداوند شهر را نگاه ندارد پاسبانان باطلاً بیدار می‌مانند."
+      }
+    },
+    {
+      "id": 89,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 139,
+      "verse": 14,
+      "text": {
+        "en": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
+        "fa": "تو را حمد خواهم گفت زیرا به طور عجیب و شگفت‌انگیز آفریده شده‌ام. کارهای تو عجیب است و جان من آن را نیک می‌داند."
+      }
+    },
+    {
+      "id": 90,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 145,
+      "verse": 18,
+      "text": {
+        "en": "The LORD is nigh unto all them that call upon him, to all that call upon him in truth.",
+        "fa": "خداوند نزدیک است به همه کسانی که او را می‌خوانند، به همه کسانی که او را به راستی می‌خوانند."
+      }
+    },
+    {
+      "id": 91,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 1,
+      "verse": 7,
+      "text": {
+        "en": "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.",
+        "fa": "ترس خداوند ابتدای معرفت است. احمقان حکمت و تعلیم را خوار می‌شمارند."
+      }
+    },
+    {
+      "id": 92,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 4,
+      "verse": 23,
+      "text": {
+        "en": "Keep thy heart with all diligence; for out of it are the issues of life.",
+        "fa": "از هر چیز محافظت شده، دل خود را محافظت کن زیرا که مخرج حیات از آن است."
+      }
+    },
+    {
+      "id": 93,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 9,
+      "verse": 10,
+      "text": {
+        "en": "The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.",
+        "fa": "ترس خداوند ابتدای حکمت است و معرفت قدوس فطانت است."
+      }
+    },
+    {
+      "id": 94,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 16,
+      "verse": 3,
+      "text": {
+        "en": "Commit thy works unto the LORD, and thy thoughts shall be established.",
+        "fa": "کارهای خود را به خداوند بسپار تا افکار تو استوار شود."
+      }
+    },
+    {
+      "id": 95,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 22,
+      "verse": 6,
+      "text": {
+        "en": "Train up a child in the way he should go: and when he is old, he will not depart from it.",
+        "fa": "طفل را بر حسب راه او تربیت کن و چون پیر شود از آن انحراف نخواهد کرد."
+      }
+    },
+    {
+      "id": 96,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 25,
+      "verse": 11,
+      "text": {
+        "en": "A word fitly spoken is like apples of gold in pictures of silver.",
+        "fa": "کلام به وقت گفته شده مثل سیبهای طلا در ظرفهای نقره است."
+      }
+    },
+    {
+      "id": 97,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 27,
+      "verse": 17,
+      "text": {
+        "en": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.",
+        "fa": "آهن آهن را تیز می‌کند و مرد روی دوست خود را تیز می‌کند."
+      }
+    },
+    {
+      "id": 98,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 29,
+      "verse": 18,
+      "text": {
+        "en": "Where there is no vision, the people perish: but he that keepeth the law, happy is he.",
+        "fa": "جایی که رویا نباشد قوم تباه می‌شود اما خوشا به حال کسی که شریعت را نگاه دارد."
+      }
+    },
+    {
+      "id": 99,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 31,
+      "verse": 10,
+      "text": {
+        "en": "Who can find a virtuous woman? for her price is far above rubies.",
+        "fa": "زن فاضل را کی می‌توان یافت؟ زیرا قیمت او از لعلها گرانتر است."
+      }
+    },
+    {
+      "id": 100,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 9,
+      "verse": 6,
+      "text": {
+        "en": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace.",
+        "fa": "زیرا برای ما طفلی متولد و پسری به ما داده شد و سلطنت بر دوش او خواهد بود و نام او عجیب و مشیر و خدای قدیر و پدر سرمدی و رئیس سلامتی خوانده خواهد شد."
+      }
+    },
+    {
+      "id": 101,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 26,
+      "verse": 3,
+      "text": {
+        "en": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee.",
+        "fa": "او را در سلامتی کامل نگاه خواهی داشت زیرا که بر تو توکل دارد."
+      }
+    },
+    {
+      "id": 102,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 40,
+      "verse": 29,
+      "text": {
+        "en": "He giveth power to the faint; and to them that have no might he increaseth strength.",
+        "fa": "او به ضعیف قوت می‌دهد و به کسی که قوت ندارد توانایی را زیاد می‌کند."
+      }
+    },
+    {
+      "id": 103,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 41,
+      "verse": 10,
+      "text": {
+        "en": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+        "fa": "مترس زیرا من با تو هستم. هراسان مباش زیرا من خدای تو هستم. تو را تقویت خواهم کرد و تو را یاری خواهم داد و تو را به دست راست عدالت خود نگاه خواهم داشت."
+      }
+    },
+    {
+      "id": 104,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 43,
+      "verse": 2,
+      "text": {
+        "en": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.",
+        "fa": "چون از آبها بگذری من با تو خواهم بود و چون از نهرها بگذری تو را نخواهند پوشانید. چون از آتش بگذری نخواهی سوخت و شعله بر تو نخواهد افروخت."
+      }
+    },
+    {
+      "id": 105,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 53,
+      "verse": 5,
+      "text": {
+        "en": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+        "fa": "اما او به سبب تقصیرهای ما مجروح و به سبب گناهان ما کوفته شد. تادیب سلامتی ما بر او آمد و به زخمهای او شفا یافتیم."
+      }
+    },
+    {
+      "id": 106,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 55,
+      "verse": 8,
+      "text": {
+        "en": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.",
+        "fa": "زیرا افکار من افکار شما نیست و راههای شما راههای من نیست، می‌گوید خداوند."
+      }
+    },
+    {
+      "id": 107,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 58,
+      "verse": 11,
+      "text": {
+        "en": "And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.",
+        "fa": "و خداوند تو را پیوسته هدایت خواهد کرد و جان تو را در زمین خشک سیر خواهد کرد و استخوانهای تو را فربه خواهد ساخت و مثل باغ آبیاری شده و مثل چشمه آب خواهی بود که آبهایش خشک نمی‌شود."
+      }
+    },
+    {
+      "id": 108,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 61,
+      "verse": 1,
+      "text": {
+        "en": "The spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound.",
+        "fa": "روح خداوند یهوه بر من است زیرا خداوند مرا مسح کرده تا مسکینان را بشارت دهم و مرا فرستاده تا دل شکستگان را ببندم و اسیران را به آزادی و محبوسان را به گشایش اعلام کنم."
+      }
+    },
+    {
+      "id": 109,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 64,
+      "verse": 8,
+      "text": {
+        "en": "But now, O LORD, thou art our father; we are the clay, and thou our potter; and we all are the work of thy hand.",
+        "fa": "اما حال‌ای خداوند تو پدر ما هستی. ما گل هستیم و تو کوزه‌گر ما و همه ما کار دست تو هستیم."
+      }
+    },
+    {
+      "id": 110,
+      "book": {
+        "en": "Jeremiah",
+        "fa": "ارمیا"
+      },
+      "chapter": 1,
+      "verse": 5,
+      "text": {
+        "en": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations.",
+        "fa": "قبل از آنکه تو را در رحم بیافرینم تو را شناختم و قبل از آنکه از شکم بیرون آیی تو را تقدیس کردم و تو را نبی برای امت‌ها مقرر داشتم."
+      }
+    },
+    {
+      "id": 111,
+      "book": {
+        "en": "Jeremiah",
+        "fa": "ارمیا"
+      },
+      "chapter": 17,
+      "verse": 7,
+      "text": {
+        "en": "Blessed is the man that trusteth in the LORD, and whose hope the LORD is.",
+        "fa": "خوشا به حال کسی که بر خداوند توکل دارد و امیدش خداوند است."
+      }
+    },
+    {
+      "id": 112,
+      "book": {
+        "en": "Jeremiah",
+        "fa": "ارمیا"
+      },
+      "chapter": 29,
+      "verse": 13,
+      "text": {
+        "en": "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
+        "fa": "و مرا خواهید یافت چون با تمام دل خود مرا بطلبید."
+      }
+    },
+    {
+      "id": 113,
+      "book": {
+        "en": "Jeremiah",
+        "fa": "ارمیا"
+      },
+      "chapter": 31,
+      "verse": 3,
+      "text": {
+        "en": "The LORD hath appeared of old unto me, saying, Yea, I have loved thee with an everlasting love: therefore with lovingkindness have I drawn thee.",
+        "fa": "خداوند از دور بر من ظاهر شده، گفت: بلی محبت جاودانی تو را محبت کرده‌ام. از این سبب تو را به رحمت کشیده‌ام."
+      }
+    },
+    {
+      "id": 114,
+      "book": {
+        "en": "Jeremiah",
+        "fa": "ارمیا"
+      },
+      "chapter": 33,
+      "verse": 3,
+      "text": {
+        "en": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
+        "fa": "مرا بخوان و من تو را جواب خواهم داد و چیزهای عظیم و مخفی که نمی‌دانی به تو خواهم نمود."
+      }
+    },
+    {
+      "id": 115,
+      "book": {
+        "en": "Lamentations",
+        "fa": "مراثی"
+      },
+      "chapter": 3,
+      "verse": 22,
+      "text": {
+        "en": "It is of the LORD's mercies that we are not consumed, because his compassions fail not.",
+        "fa": "رحمتهای خداوند تمام نمی‌شود. رحمتهای او هر صبح تازه می‌شود. وفاداری تو عظیم است."
+      }
+    },
+    {
+      "id": 116,
+      "book": {
+        "en": "Ezekiel",
+        "fa": "حزقیال"
+      },
+      "chapter": 36,
+      "verse": 26,
+      "text": {
+        "en": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.",
+        "fa": "و دل تازه به شما خواهم داد و روح تازه در باطن شما خواهم نهاد و دل سنگی را از گوشت شما بیرون آورده، دل گوشتی به شما خواهم داد."
+      }
+    },
+    {
+      "id": 117,
+      "book": {
+        "en": "Ezekiel",
+        "fa": "حزقیال"
+      },
+      "chapter": 37,
+      "verse": 5,
+      "text": {
+        "en": "Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live.",
+        "fa": "خداوند یهوه به این استخوانها چنین می‌گوید: اینک من روح را در شما داخل می‌کنم تا زنده شوید."
+      }
+    },
+    {
+      "id": 118,
+      "book": {
+        "en": "Daniel",
+        "fa": "دانیال"
+      },
+      "chapter": 2,
+      "verse": 20,
+      "text": {
+        "en": "Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his.",
+        "fa": "دانیال جواب داده، گفت: نام خدا تا ابدالآباد متبارک باد زیرا حکمت و قوت از آن اوست."
+      }
+    },
+    {
+      "id": 119,
+      "book": {
+        "en": "Daniel",
+        "fa": "دانیال"
+      },
+      "chapter": 6,
+      "verse": 23,
+      "text": {
+        "en": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.",
+        "fa": "آنگاه پادشاه بسیار شاد شد و امر فرمود که دانیال را از چاه بیرون آورند. پس دانیال از چاه بیرون آورده شد و هیچ آسیب در او یافت نشد زیرا به خدای خود ایمان داشت."
+      }
+    },
+    {
+      "id": 120,
+      "book": {
+        "en": "Hosea",
+        "fa": "هوشع"
+      },
+      "chapter": 11,
+      "verse": 4,
+      "text": {
+        "en": "I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.",
+        "fa": "ایشان را با ریسمانهای انسان و با بندهای محبت کشیدم و برای ایشان مثل کسانی بودم که یوغ را از آرواره‌های ایشان برمی‌دارند و خوراک پیش ایشان می‌گذاشتم."
+      }
+    },
+    {
+      "id": 121,
+      "book": {
+        "en": "Joel",
+        "fa": "یوئیل"
+      },
+      "chapter": 2,
+      "verse": 28,
+      "text": {
+        "en": "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions.",
+        "fa": "و بعد از آن واقع خواهد شد که روح خود را بر هر بشر فرو خواهم ریخت و پسران و دختران شما نبوت خواهند کرد و پیران شما خوابها خواهند دید و جوانان شما رویاها خواهند دید."
+      }
+    },
+    {
+      "id": 122,
+      "book": {
+        "en": "Amos",
+        "fa": "عاموس"
+      },
+      "chapter": 4,
+      "verse": 13,
+      "text": {
+        "en": "For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The LORD, The God of hosts, is his name.",
+        "fa": "زیرا اینک او که کوهها را می‌سازد و باد را می‌آفریند و فکر خود را به انسان اعلام می‌کند و صبح را ظلمت می‌سازد و بر مکانهای بلند زمین گام می‌زند، یهوه خدای صبایوت نام اوست."
+      }
+    },
+    {
+      "id": 123,
+      "book": {
+        "en": "Obadiah",
+        "fa": "عوبدیا"
+      },
+      "chapter": 1,
+      "verse": 17,
+      "text": {
+        "en": "But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.",
+        "fa": "اما در کوه صهیون نجات خواهد بود و آنجا مقدس خواهد بود و خاندان یعقوب میراث خود را تصرف خواهند کرد."
+      }
+    },
+    {
+      "id": 124,
+      "book": {
+        "en": "Jonah",
+        "fa": "یونس"
+      },
+      "chapter": 4,
+      "verse": 2,
+      "text": {
+        "en": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
+        "fa": "و نزد خداوند دعا کرده، گفت: ای خداوند آیا این سخن من نبود وقتی که هنوز در وطن خود بودم؟ از این سبب پیش از این به ترشیش فرار کردم زیرا می‌دانستم که تو خدای رحیم و رئوف و دیرغضب و پر از رحمت و از بدی توبه‌کننده هستی."
+      }
+    },
+    {
+      "id": 125,
+      "book": {
+        "en": "Micah",
+        "fa": "میکاه"
+      },
+      "chapter": 7,
+      "verse": 7,
+      "text": {
+        "en": "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.",
+        "fa": "اما من به خداوند نظر خواهم کرد و منتظر خدای نجات خود خواهم بود. خدای من مرا خواهد شنید."
+      }
+    },
+    {
+      "id": 126,
+      "book": {
+        "en": "Habakkuk",
+        "fa": "حبقوق"
+      },
+      "chapter": 3,
+      "verse": 19,
+      "text": {
+        "en": "The LORD God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+        "fa": "خداوند یهوه قوت من است و پایهای مرا مثل پایهای آهو می‌سازد و مرا بر بلندیهای من راه می‌برد. برای رهبر سرایندگان بر آلات موسیقی من."
+      }
+    },
+    {
+      "id": 127,
+      "book": {
+        "en": "Zephaniah",
+        "fa": "صفنیا"
+      },
+      "chapter": 3,
+      "verse": 17,
+      "text": {
+        "en": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.",
+        "fa": "یهوه خدایت در میان تو قادر است. او نجات خواهد داد و به تو شادی خواهد کرد. او در محبت خود ساکت خواهد بود و به تو با آواز شادی خواهد کرد."
+      }
+    },
+    {
+      "id": 128,
+      "book": {
+        "en": "Haggai",
+        "fa": "حجی"
+      },
+      "chapter": 2,
+      "verse": 4,
+      "text": {
+        "en": "Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts.",
+        "fa": "لیکن حال‌ای زربابل قوی شو، می‌گوید خداوند و ای یهوشع بن یوصادق کاهن اعظم قوی شو و ای تمامی قوم زمین قوی شوید و کار کنید، می‌گوید خداوند، زیرا من با شما هستم، می‌گوید خداوند صبایوت."
+      }
+    },
+    {
+      "id": 129,
+      "book": {
+        "en": "Zechariah",
+        "fa": "زکریا"
+      },
+      "chapter": 9,
+      "verse": 9,
+      "text": {
+        "en": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.",
+        "fa": "ای دختر صهیون بسیار شادی کن و ای دختر اورشلیم فریاد برآور. اینک پادشاه تو نزد تو می‌آید. او عادل و منجی است و فروتن و بر الاغ و بر کره الاغ سوار است."
+      }
+    },
+    {
+      "id": 130,
+      "book": {
+        "en": "Malachi",
+        "fa": "ملاکی"
+      },
+      "chapter": 4,
+      "verse": 2,
+      "text": {
+        "en": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+        "fa": "اما برای شما که از نام من می‌ترسید آفتاب عدالت طلوع خواهد کرد و شفا در بالهای او خواهد بود و شما بیرون خواهید رفت و مثل گوساله‌های پرواری خواهید جهید."
+      }
+    },
+    {
+      "id": 131,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 1,
+      "verse": 21,
+      "text": {
+        "en": "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.",
+        "fa": "و او پسری خواهد زایید و نام او را عیسی خواهی نامید زیرا او قوم خود را از گناهان ایشان نجات خواهد داد."
+      }
+    },
+    {
+      "id": 132,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 2,
+      "verse": 2,
+      "text": {
+        "en": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.",
+        "fa": "و گفتند: کجاست آن پادشاه یهود که متولد شده است؟ زیرا ستاره او را در مشرق دیدیم و برای پرستش او آمدیم."
+      }
+    },
+    {
+      "id": 133,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 4,
+      "verse": 4,
+      "text": {
+        "en": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.",
+        "fa": "او جواب داده، گفت: مکتوب است که انسان به نان فقط زیست نخواهد کرد بلکه به هر کلامی که از دهان خدا صادر می‌شود."
+      }
+    },
+    {
+      "id": 134,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 5,
+      "verse": 3,
+      "text": {
+        "en": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+        "fa": "خوشا به حال فقیران در روح زیرا ملکوت آسمان از آن ایشان است."
+      }
+    },
+    {
+      "id": 135,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 5,
+      "verse": 8,
+      "text": {
+        "en": "Blessed are the pure in heart: for they shall see God.",
+        "fa": "خوشا به حال پاکدلان زیرا ایشان خدا را خواهند دید."
+      }
+    },
+    {
+      "id": 136,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 5,
+      "verse": 16,
+      "text": {
+        "en": "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.",
+        "fa": "همچنان نور شما بر مردم بتابد تا کارهای نیک شما را ببینند و پدر شما را که در آسمان است تمجید کنند."
+      }
+    },
+    {
+      "id": 137,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 6,
+      "verse": 9,
+      "text": {
+        "en": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.",
+        "fa": "پس شما اینطور دعا کنید: ای پدر ما که در آسمان هستی نام تو مقدس باد."
+      }
+    },
+    {
+      "id": 138,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 7,
+      "verse": 7,
+      "text": {
+        "en": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.",
+        "fa": "بطلبید و به شما داده خواهد شد. بجویید و خواهید یافت. بکوبید و برای شما باز خواهد شد."
+      }
+    },
+    {
+      "id": 139,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 11,
+      "verse": 28,
+      "text": {
+        "en": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+        "fa": "بیایید نزد من ای همه زحمت‌کشان و گران‌باران و من شما را آرامی خواهم داد."
+      }
+    },
+    {
+      "id": 140,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 16,
+      "verse": 18,
+      "text": {
+        "en": "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.",
+        "fa": "و من نیز به تو می‌گویم که تو پطرس هستی و بر این صخره کلیسای خود را بنا خواهم کرد و دروازه‌های جهنم بر آن غالب نخواهد آمد."
+      }
+    },
+    {
+      "id": 141,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 18,
+      "verse": 20,
+      "text": {
+        "en": "For where two or three are gathered together in my name, there am I in the midst of them.",
+        "fa": "زیرا هر جا که دو یا سه نفر به نام من جمع شوند آنجا در میان ایشان هستم."
+      }
+    },
+    {
+      "id": 142,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 19,
+      "verse": 26,
+      "text": {
+        "en": "But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.",
+        "fa": "عیسی ایشان را نگریسته، گفت: نزد انسان محال است اما نزد خدا همه چیز ممکن است."
+      }
+    },
+    {
+      "id": 143,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 22,
+      "verse": 37,
+      "text": {
+        "en": "Jesus said unto him, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind.",
+        "fa": "عیسی به او گفت: خداوند خدای خود را به تمامی دل و تمامی جان و تمامی فکر خود محبت نما."
+      }
+    },
+    {
+      "id": 144,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 25,
+      "verse": 40,
+      "text": {
+        "en": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me.",
+        "fa": "و پادشاه در جواب ایشان خواهد گفت: هر آینه به شما می‌گویم آنچه به یکی از این برادران کوچک من کردید به من کردید."
+      }
+    },
+    {
+      "id": 145,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 28,
+      "verse": 20,
+      "text": {
+        "en": "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.",
+        "fa": "و ایشان را تعلیم دهید که همه چیزهایی را که به شما امر کرده‌ام نگاه دارند. و اینک من هر روز تا انقضای عالم با شما هستم. آمین."
+      }
+    },
+    {
+      "id": 146,
+      "book": {
+        "en": "Mark",
+        "fa": "مرقس"
+      },
+      "chapter": 1,
+      "verse": 15,
+      "text": {
+        "en": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+        "fa": "و می‌گفت: زمان تمام شده و ملکوت خدا نزدیک است. توبه کنید و به انجیل ایمان آورید."
+      }
+    },
+    {
+      "id": 147,
+      "book": {
+        "en": "Mark",
+        "fa": "مرقس"
+      },
+      "chapter": 9,
+      "verse": 23,
+      "text": {
+        "en": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth.",
+        "fa": "عیسی به او گفت: اگر بتوانی ایمان آوری، همه چیز برای ایمان‌دار ممکن است."
+      }
+    },
+    {
+      "id": 148,
+      "book": {
+        "en": "Mark",
+        "fa": "مرقس"
+      },
+      "chapter": 11,
+      "verse": 24,
+      "text": {
+        "en": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.",
+        "fa": "از این سبب به شما می‌گویم هر چه در دعا طلب می‌کنید ایمان آورید که می‌یابید و به شما داده خواهد شد."
+      }
+    },
+    {
+      "id": 149,
+      "book": {
+        "en": "Mark",
+        "fa": "مرقس"
+      },
+      "chapter": 16,
+      "verse": 15,
+      "text": {
+        "en": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+        "fa": "و به ایشان گفت: در تمام عالم بروید و انجیل را به هر مخلوقی موعظه کنید."
+      }
+    },
+    {
+      "id": 150,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 2,
+      "verse": 10,
+      "text": {
+        "en": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.",
+        "fa": "و فرشته به ایشان گفت: مترسید زیرا اینک بشارت عظیمی که برای تمامی قوم خواهد بود به شما می‌دهم."
+      }
+    },
+    {
+      "id": 151,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 4,
+      "verse": 18,
+      "text": {
+        "en": "The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel to the poor; he hath sent me to heal the brokenhearted, to preach deliverance to the captives, and recovering of sight to the blind, to set at liberty them that are bruised.",
+        "fa": "روح خداوند بر من است زیرا مرا مسح کرده تا فقیران را بشارت دهم و مرا فرستاده تا دل شکستگان را شفا دهم و اسیران را به آزادی و کوران را به بینایی اعلام کنم و کوفتگان را به آزادی بفرستم."
+      }
+    },
+    {
+      "id": 152,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 6,
+      "verse": 31,
+      "text": {
+        "en": "And as ye would that men should do to you, do ye also to them likewise.",
+        "fa": "و چنانکه می‌خواهید مردم با شما رفتار کنند شما نیز با ایشان همانطور رفتار کنید."
+      }
+    },
+    {
+      "id": 153,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 10,
+      "verse": 27,
+      "text": {
+        "en": "And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.",
+        "fa": "او در جواب گفت: خداوند خدای خود را به تمامی دل و تمامی جان و تمامی قوت و تمامی فکر خود محبت نما و همسایه خود را مثل خویشتن."
+      }
+    },
+    {
+      "id": 154,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 12,
+      "verse": 32,
+      "text": {
+        "en": "Fear not, little flock; for it is your Father's good pleasure to give you the kingdom.",
+        "fa": "مترسید ای گله کوچک زیرا اراده پدر شما این است که ملکوت را به شما بدهد."
+      }
+    },
+    {
+      "id": 155,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 15,
+      "verse": 7,
+      "text": {
+        "en": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.",
+        "fa": "به شما می‌گویم که همچنین در آسمان شادی خواهد بود بر یک گناهکار که توبه کند بیشتر از نود و نه عادل که محتاج توبه نیستند."
+      }
+    },
+    {
+      "id": 156,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 19,
+      "verse": 10,
+      "text": {
+        "en": "For the Son of man is come to seek and to save that which was lost.",
+        "fa": "زیرا پسر انسان آمده تا گمشده را بجوید و نجات دهد."
+      }
+    },
+    {
+      "id": 157,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 23,
+      "verse": 34,
+      "text": {
+        "en": "Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.",
+        "fa": "و عیسی گفت: ای پدر ایشان را بیامرز زیرا نمی‌دانند چه می‌کنند. و لباسهای او را تقسیم کرده، قرعه انداختند."
+      }
+    },
+    {
+      "id": 158,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 24,
+      "verse": 6,
+      "text": {
+        "en": "He is not here, but is risen: remember how he spake unto you when he was yet in Galilee.",
+        "fa": "او اینجا نیست بلکه برخاسته است. بیاد آورید که وقتی هنوز در جلیل بود با شما چه گفت."
+      }
+    },
+    {
+      "id": 159,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 1,
+      "verse": 1,
+      "text": {
+        "en": "In the beginning was the Word, and the Word was with God, and the Word was God.",
+        "fa": "در ابتدا کلمه بود و کلمه نزد خدا بود و کلمه خدا بود."
+      }
+    },
+    {
+      "id": 160,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 1,
+      "verse": 14,
+      "text": {
+        "en": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+        "fa": "و کلمه جسم گردید و میان ما ساکن شد پر از فیض و راستی و جلال او را دیدیم جلالی شایسته پسر یگانه پدر."
+      }
+    },
+    {
+      "id": 161,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 1,
+      "verse": 29,
+      "text": {
+        "en": "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+        "fa": "روز بعد یحیی عیسی را دید که به سوی او می‌آید و گفت: اینک بره خدا که گناه جهان را برمی‌دارد."
+      }
+    },
+    {
+      "id": 162,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 3,
+      "verse": 3,
+      "text": {
+        "en": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.",
+        "fa": "عیسی در جواب او گفت: هر آینه هر آینه به تو می‌گویم اگر کسی از نو مولود نشود ملکوت خدا را نمی‌تواند دید."
+      }
+    },
+    {
+      "id": 163,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 4,
+      "verse": 24,
+      "text": {
+        "en": "God is a Spirit: and they that worship him must worship him in spirit and in truth.",
+        "fa": "خدا روح است و آنانی که او را می‌پرستند باید به روح و راستی بپرستند."
+      }
+    },
+    {
+      "id": 164,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 6,
+      "verse": 35,
+      "text": {
+        "en": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.",
+        "fa": "عیسی به ایشان گفت: من نان حیات هستم. هر که نزد من آید هرگز گرسنه نخواهد شد و هر که به من ایمان آورد هرگز تشنه نخواهد شد."
+      }
+    },
+    {
+      "id": 165,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 8,
+      "verse": 12,
+      "text": {
+        "en": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+        "fa": "پس عیسی باز بدیشان خطاب کرده، گفت: من نور جهان هستم. هر که مرا متابعت کند در ظلمت راه نخواهد رفت بلکه نور حیات را خواهد داشت."
+      }
+    },
+    {
+      "id": 166,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 10,
+      "verse": 10,
+      "text": {
+        "en": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+        "fa": "دزد نمی‌آید مگر برای دزدیدن و کشتن و هلاک کردن. من آمدم تا ایشان حیات داشته باشند و آن را فراوان‌تر داشته باشند."
+      }
+    },
+    {
+      "id": 167,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 11,
+      "verse": 25,
+      "text": {
+        "en": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live.",
+        "fa": "عیسی به او گفت: من قیامت و حیات هستم. هر که به من ایمان آورد اگر مرده باشد زنده خواهد شد."
+      }
+    },
+    {
+      "id": 168,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 13,
+      "verse": 34,
+      "text": {
+        "en": "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.",
+        "fa": "حکم تازه‌ای به شما می‌دهم که یکدیگر را محبت کنید چنانکه من شما را محبت کردم شما نیز یکدیگر را محبت کنید."
+      }
+    },
+    {
+      "id": 169,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 15,
+      "verse": 5,
+      "text": {
+        "en": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.",
+        "fa": "من تاک هستم و شما شاخه‌ها. هر که در من بماند و من در او آن شخص میوه بسیار می‌آورد زیرا بدون من هیچ نمی‌توانید کرد."
+      }
+    },
+    {
+      "id": 170,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 16,
+      "verse": 33,
+      "text": {
+        "en": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+        "fa": "این چیزها را به شما گفتم تا در من سلامتی داشته باشید. در جهان تنگی خواهید داشت اما خاطر جمع باشید من جهان را مغلوب کرده‌ام."
+      }
+    },
+    {
+      "id": 171,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 17,
+      "verse": 17,
+      "text": {
+        "en": "Sanctify them through thy truth: thy word is truth.",
+        "fa": "ایشان را در راستی خود تقدیس کن. کلام تو راستی است."
+      }
+    },
+    {
+      "id": 172,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 20,
+      "verse": 29,
+      "text": {
+        "en": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed.",
+        "fa": "عیسی به او گفت: ای توما چون مرا دیده‌ای ایمان آورده‌ای. خوشا به حال آنانی که ندیده‌اند و ایمان آورده‌اند."
+      }
+    },
+    {
+      "id": 173,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 2,
+      "verse": 38,
+      "text": {
+        "en": "Then Peter said unto them, Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.",
+        "fa": "پطرس بدیشان گفت: توبه کنید و هر یکی از شما به نام عیسی مسیح برای آمرزش گناهان تعمید یابد و عطای روح‌القدس را خواهید یافت."
+      }
+    },
+    {
+      "id": 174,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 4,
+      "verse": 12,
+      "text": {
+        "en": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+        "fa": "و در هیچ‌کس دیگر نجات نیست زیرا که نامی دیگر تحت آسمان به مردم عطا نشده که بدان باید نجات یابیم."
+      }
+    },
+    {
+      "id": 175,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 9,
+      "verse": 6,
+      "text": {
+        "en": "And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told thee what thou must do.",
+        "fa": "و او لرزان و متحیر گفت: ای خداوند چه می‌خواهی که بکنم؟ خداوند به او گفت: برخاسته، به شهر برو و آنچه باید بکنی به تو گفته خواهد شد."
+      }
+    },
+    {
+      "id": 176,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 16,
+      "verse": 31,
+      "text": {
+        "en": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.",
+        "fa": "و گفتند: به خداوند عیسی مسیح ایمان آور تا تو و اهل خانه‌ات نجات یابید."
+      }
+    },
+    {
+      "id": 177,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 17,
+      "verse": 11,
+      "text": {
+        "en": "These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.",
+        "fa": "و اینان از اهل تسالونیکی نجیب‌تر بودند زیرا کلام را با تمام رغبت قبول کردند و هر روز کتب را تفتیش می‌کردند تا ببینند آیا این چیزها چنین است."
+      }
+    },
+    {
+      "id": 178,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 20,
+      "verse": 35,
+      "text": {
+        "en": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.",
+        "fa": "در همه چیز به شما نشان دادم که چنین زحمت کشیده، ضعیفان را دستگیری کنید و کلام خداوند عیسی را به یاد آورید که گفت: دادن از گرفتن مبارک‌تر است."
+      }
+    },
+    {
+      "id": 179,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 1,
+      "verse": 16,
+      "text": {
+        "en": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.",
+        "fa": "زیرا از انجیل مسیح شرم ندارم چون قوت خداست برای نجات هر کس که ایمان آورد اول یهود و بعد یونانی."
+      }
+    },
+    {
+      "id": 180,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 3,
+      "verse": 23,
+      "text": {
+        "en": "For all have sinned, and come short of the glory of God.",
+        "fa": "زیرا همه گناه کرده‌اند و از جلال خدا قاصر می‌باشند."
+      }
+    },
+    {
+      "id": 181,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 5,
+      "verse": 8,
+      "text": {
+        "en": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.",
+        "fa": "لیکن خدا محبت خود را در ما ثابت می‌کند چونکه وقتی ما هنوز گناهکار بودیم مسیح در راه ما مرد."
+      }
+    },
+    {
+      "id": 182,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 6,
+      "verse": 23,
+      "text": {
+        "en": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+        "fa": "زیرا مزد گناه موت است اما بخشش خدا حیات جاودانی در مسیح عیسی خداوند ماست."
+      }
+    },
+    {
+      "id": 183,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 8,
+      "verse": 1,
+      "text": {
+        "en": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+        "fa": "پس حال هیچ‌کس را که در مسیح عیسی است محکومیت نیست."
+      }
+    },
+    {
+      "id": 184,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 10,
+      "verse": 9,
+      "text": {
+        "en": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
+        "fa": "زیرا اگر به زبان خود خداوند عیسی را اقرار کنی و در دل خود ایمان آوری که خدا او را از مردگان برخیزانیده است نجات خواهی یافت."
+      }
+    },
+    {
+      "id": 185,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 12,
+      "verse": 1,
+      "text": {
+        "en": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.",
+        "fa": "پس ای برادران به رحمتهای خدا استدعا می‌کنم که بدنهای خود را قربانی زنده و مقدس و پسندیده خدا بگذرانید که عبادت معقول شما باشد."
+      }
+    },
+    {
+      "id": 186,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 12,
+      "verse": 2,
+      "text": {
+        "en": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+        "fa": "و همشکل این عالم مشوید بلکه به تجدید فکر خود متحول شوید تا بتوانید اراده نیک و پسندیده و کامل خدا را تشخیص دهید."
+      }
+    },
+    {
+      "id": 187,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 15,
+      "verse": 13,
+      "text": {
+        "en": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+        "fa": "و خدای امید شما را از هر شادی و سلامتی در ایمان پر کند تا در امید به قوت روح‌القدس بی‌نهایت باشید."
+      }
+    },
+    {
+      "id": 188,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 1,
+      "verse": 18,
+      "text": {
+        "en": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.",
+        "fa": "زیرا کلام صلیب برای هالکان جهالت است اما برای ما که نجات می‌یابیم قوت خداست."
+      }
+    },
+    {
+      "id": 189,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 2,
+      "verse": 9,
+      "text": {
+        "en": "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
+        "fa": "بلکه چنانکه مکتوب است آنچه چشم ندیده و گوش نشنیده و به قلب انسان خطور نکرده آن چیزهایی که خدا برای محبان خود مهیا کرده است."
+      }
+    },
+    {
+      "id": 190,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 6,
+      "verse": 19,
+      "text": {
+        "en": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?",
+        "fa": "آیا نمی‌دانید که بدن شما هیکل روح‌القدس است که در شما ساکن است و از خدا یافته‌اید و از خود نیستید؟"
+      }
+    },
+    {
+      "id": 191,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 10,
+      "verse": 13,
+      "text": {
+        "en": "There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.",
+        "fa": "هیچ تجربه‌ای بر شما نیامده است مگر آنچه بشری است و خدا امین است که نخواهد گذاشت بیش از آنچه می‌توانید متحمل شوید تجربه بر شما آید بلکه با تجربه راه نجات نیز مهیا خواهد ساخت تا بتوانید متحمل شوید."
+      }
+    },
+    {
+      "id": 192,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 12,
+      "verse": 12,
+      "text": {
+        "en": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.",
+        "fa": "زیرا چنانکه بدن یکی است و اعضای بسیار دارد و همه اعضای بدن با آنکه بسیارند یک بدن می‌باشند همچنین مسیح نیز چنین است."
+      }
+    },
+    {
+      "id": 193,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 15,
+      "verse": 3,
+      "text": {
+        "en": "For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures.",
+        "fa": "زیرا اول از همه آنچه را که دریافت کردم به شما سپردم که مسیح بر حسب کتب برای گناهان ما مرد."
+      }
+    },
+    {
+      "id": 194,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 16,
+      "verse": 14,
+      "text": {
+        "en": "Let all your things be done with charity.",
+        "fa": "همه کارهای شما در محبت انجام شود."
+      }
+    },
+    {
+      "id": 195,
+      "book": {
+        "en": "2 Corinthians",
+        "fa": "دوم قرنتیان"
+      },
+      "chapter": 1,
+      "verse": 3,
+      "text": {
+        "en": "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort.",
+        "fa": "متبارک باد خدا و پدر خداوند ما عیسی مسیح و پدر رحمت‌ها و خدای هر تسلی."
+      }
+    },
+    {
+      "id": 196,
+      "book": {
+        "en": "2 Corinthians",
+        "fa": "دوم قرنتیان"
+      },
+      "chapter": 3,
+      "verse": 18,
+      "text": {
+        "en": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.",
+        "fa": "و ما همه با روی باز جلال خداوند را مثل در آینه می‌بینیم و از جلال به جلال به همان صورت متحول می‌شویم چنانکه از روح خداوند."
+      }
+    },
+    {
+      "id": 197,
+      "book": {
+        "en": "2 Corinthians",
+        "fa": "دوم قرنتیان"
+      },
+      "chapter": 4,
+      "verse": 7,
+      "text": {
+        "en": "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.",
+        "fa": "لیکن این گنج را در ظروف گلی داریم تا فضیلت قوت از آن خدا باشد نه از ما."
+      }
+    },
+    {
+      "id": 198,
+      "book": {
+        "en": "2 Corinthians",
+        "fa": "دوم قرنتیان"
+      },
+      "chapter": 9,
+      "verse": 7,
+      "text": {
+        "en": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
+        "fa": "هر کس چنانکه در دل خود مصمم شده است بدهد نه از روی اکراه یا اجبار زیرا خدا دهنده شاد را دوست می‌دارد."
+      }
+    },
+    {
+      "id": 199,
+      "book": {
+        "en": "2 Corinthians",
+        "fa": "دوم قرنتیان"
+      },
+      "chapter": 12,
+      "verse": 9,
+      "text": {
+        "en": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+        "fa": "و به من گفت: فیض من برای تو کافی است زیرا قوت من در ضعف کامل می‌شود. پس بسیار خوشحال خواهم بود که در ضعفهای خود فخر کنم تا قوت مسیح در من ساکن شود."
+      }
+    },
+    {
+      "id": 200,
+      "book": {
+        "en": "Galatians",
+        "fa": "غلاطیان"
+      },
+      "chapter": 2,
+      "verse": 20,
+      "text": {
+        "en": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.",
+        "fa": "با مسیح مصلوب شده‌ام و دیگر من زیست نمی‌کنم بلکه مسیح در من زیست می‌کند و آن حیاتی که اکنون در جسم می‌زییم در ایمان پسر خدا زیست می‌کنم که مرا محبت نمود و خود را برای من تسلیم کرد."
+      }
+    },
+    {
+      "id": 201,
+      "book": {
+        "en": "Galatians",
+        "fa": "غلاطیان"
+      },
+      "chapter": 5,
+      "verse": 22,
+      "text": {
+        "en": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith.",
+        "fa": "لیکن ثمر روح محبت و خوشی و سلامتی و تحمل و مهربانی و نیکویی و ایمان است."
+      }
+    },
+    {
+      "id": 202,
+      "book": {
+        "en": "Galatians",
+        "fa": "غلاطیان"
+      },
+      "chapter": 6,
+      "verse": 9,
+      "text": {
+        "en": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+        "fa": "و در نیکویی کردن خسته نشویم زیرا در موسم خود درو خواهیم کرد اگر خسته نشویم."
+      }
+    },
+    {
+      "id": 203,
+      "book": {
+        "en": "Ephesians",
+        "fa": "افسسیان"
+      },
+      "chapter": 2,
+      "verse": 8,
+      "text": {
+        "en": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.",
+        "fa": "زیرا به فیض نجات یافته‌اید و این از شما نیست بلکه عطای خداست."
+      }
+    },
+    {
+      "id": 204,
+      "book": {
+        "en": "Ephesians",
+        "fa": "افسسیان"
+      },
+      "chapter": 3,
+      "verse": 20,
+      "text": {
+        "en": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us.",
+        "fa": "و حال به او که قادر است به مراتب زیاده از آنچه می‌طلبیم یا می‌اندیشیم بر حسب قوتی که در ما عمل می‌کند بکند."
+      }
+    },
+    {
+      "id": 205,
+      "book": {
+        "en": "Ephesians",
+        "fa": "افسسیان"
+      },
+      "chapter": 4,
+      "verse": 32,
+      "text": {
+        "en": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.",
+        "fa": "و با یکدیگر مهربان و دلسوز باشید و یکدیگر را بیامرزید چنانکه خدا نیز شما را در مسیح بیامرزید."
+      }
+    },
+    {
+      "id": 206,
+      "book": {
+        "en": "Ephesians",
+        "fa": "افسسیان"
+      },
+      "chapter": 6,
+      "verse": 10,
+      "text": {
+        "en": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
+        "fa": "و بالاخره ای برادران در خداوند و در قوت توانایی او قوی شوید."
+      }
+    },
+    {
+      "id": 207,
+      "book": {
+        "en": "Philippians",
+        "fa": "فیلیپیان"
+      },
+      "chapter": 1,
+      "verse": 6,
+      "text": {
+        "en": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ.",
+        "fa": "و مطمئن از همین امر که او که در شما کار نیک را شروع کرد آن را تا روز عیسی مسیح به انجام خواهد رسانید."
+      }
+    },
+    {
+      "id": 208,
+      "book": {
+        "en": "Philippians",
+        "fa": "فیلیپیان"
+      },
+      "chapter": 2,
+      "verse": 3,
+      "text": {
+        "en": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+        "fa": "هیچ‌چیز را از روی نزاع یا خودپسندی مکنید بلکه با فروتنی یکدیگر را از خود بهتر بشمارید."
+      }
+    },
+    {
+      "id": 209,
+      "book": {
+        "en": "Philippians",
+        "fa": "فیلیپیان"
+      },
+      "chapter": 3,
+      "verse": 14,
+      "text": {
+        "en": "I press toward the mark for the prize of the high calling of God in Christ Jesus.",
+        "fa": "به سوی هدف می‌دوم تا جایزه دعوت علوی خدا را در مسیح عیسی به دست آورم."
+      }
+    },
+    {
+      "id": 210,
+      "book": {
+        "en": "Philippians",
+        "fa": "فیلیپیان"
+      },
+      "chapter": 4,
+      "verse": 6,
+      "text": {
+        "en": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+        "fa": "هیچ‌چیز را با اندیشه مکنید بلکه در هر چیز با دعا و التماس با شکرگزاری مسائل خود را به خدا عرض کنید."
+      }
+    },
+    {
+      "id": 211,
+      "book": {
+        "en": "Philippians",
+        "fa": "فیلیپیان"
+      },
+      "chapter": 4,
+      "verse": 8,
+      "text": {
+        "en": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.",
+        "fa": "بالاخره ای برادران هر چه راست است و هر چه محترم و هر چه عادل و هر چه پاک و هر چه دوست‌داشتنی و هر چه نیک‌نام است و اگر فضیلتی و اگر ستایشی است در این چیزها تفکر کنید."
+      }
+    },
+    {
+      "id": 212,
+      "book": {
+        "en": "Colossians",
+        "fa": "کولسیان"
+      },
+      "chapter": 1,
+      "verse": 17,
+      "text": {
+        "en": "And he is before all things, and by him all things consist.",
+        "fa": "و او قبل از همه چیز است و همه چیز در او قائم است."
+      }
+    },
+    {
+      "id": 213,
+      "book": {
+        "en": "Colossians",
+        "fa": "کولسیان"
+      },
+      "chapter": 2,
+      "verse": 6,
+      "text": {
+        "en": "As ye have therefore received Christ Jesus the Lord, so walk ye in him.",
+        "fa": "پس چنانکه مسیح عیسی خداوند را پذیرفته‌اید در او رفتار کنید."
+      }
+    },
+    {
+      "id": 214,
+      "book": {
+        "en": "Colossians",
+        "fa": "کولسیان"
+      },
+      "chapter": 3,
+      "verse": 2,
+      "text": {
+        "en": "Set your affection on things above, not on things on the earth.",
+        "fa": "فکر خود را بر چیزهای بالا بگذارید نه بر چیزهای زمین."
+      }
+    },
+    {
+      "id": 215,
+      "book": {
+        "en": "Colossians",
+        "fa": "کولسیان"
+      },
+      "chapter": 3,
+      "verse": 23,
+      "text": {
+        "en": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men.",
+        "fa": "و هر چه می‌کنید از دل بکنید چنانکه برای خداوند و نه برای مردم."
+      }
+    },
+    {
+      "id": 216,
+      "book": {
+        "en": "1 Thessalonians",
+        "fa": "اول تسالونیکیان"
+      },
+      "chapter": 4,
+      "verse": 11,
+      "text": {
+        "en": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you.",
+        "fa": "و بکوشید که آرام باشید و کار خود را بکنید و با دستهای خود کار کنید چنانکه به شما امر کردیم."
+      }
+    },
+    {
+      "id": 217,
+      "book": {
+        "en": "1 Thessalonians",
+        "fa": "اول تسالونیکیان"
+      },
+      "chapter": 5,
+      "verse": 16,
+      "text": {
+        "en": "Rejoice evermore.",
+        "fa": "پیوسته شادی کنید."
+      }
+    },
+    {
+      "id": 218,
+      "book": {
+        "en": "1 Thessalonians",
+        "fa": "اول تسالونیکیان"
+      },
+      "chapter": 5,
+      "verse": 17,
+      "text": {
+        "en": "Pray without ceasing.",
+        "fa": "بی‌وقفه دعا کنید."
+      }
+    },
+    {
+      "id": 219,
+      "book": {
+        "en": "2 Thessalonians",
+        "fa": "دوم تسالونیکیان"
+      },
+      "chapter": 2,
+      "verse": 15,
+      "text": {
+        "en": "Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.",
+        "fa": "پس ای برادران استوار بایستید و سنتهایی را که تعلیم یافته‌اید نگاه دارید خواه به کلام خواه به رساله ما."
+      }
+    },
+    {
+      "id": 220,
+      "book": {
+        "en": "1 Timothy",
+        "fa": "اول تیموتائوس"
+      },
+      "chapter": 1,
+      "verse": 15,
+      "text": {
+        "en": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+        "fa": "این کلام امین و مستحق قبول تام است که مسیح عیسی برای نجات گناهکاران به جهان آمد که من اول ایشان هستم."
+      }
+    },
+    {
+      "id": 221,
+      "book": {
+        "en": "1 Timothy",
+        "fa": "اول تیموتائوس"
+      },
+      "chapter": 4,
+      "verse": 12,
+      "text": {
+        "en": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+        "fa": "هیچ‌کس جوانی تو را خوار مشمارد بلکه در کلام و رفتار و محبت و روح و ایمان و طهارت نمونه ایمان‌داران باش."
+      }
+    },
+    {
+      "id": 222,
+      "book": {
+        "en": "1 Timothy",
+        "fa": "اول تیموتائوس"
+      },
+      "chapter": 6,
+      "verse": 6,
+      "text": {
+        "en": "But godliness with contentment is great gain.",
+        "fa": "لیکن تقوا با قناعت سود عظیم است."
+      }
+    },
+    {
+      "id": 223,
+      "book": {
+        "en": "2 Timothy",
+        "fa": "دوم تیموتائوس"
+      },
+      "chapter": 1,
+      "verse": 7,
+      "text": {
+        "en": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.",
+        "fa": "زیرا خدا به ما روح ترس نداده است بلکه روح قوت و محبت و تعقل."
+      }
+    },
+    {
+      "id": 224,
+      "book": {
+        "en": "2 Timothy",
+        "fa": "دوم تیموتائوس"
+      },
+      "chapter": 3,
+      "verse": 16,
+      "text": {
+        "en": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness.",
+        "fa": "تمامی کتب مقدس الهام خداست و برای تعلیم و توبیخ و اصلاح و تربیت در عدالت مفید است."
+      }
+    },
+    {
+      "id": 225,
+      "book": {
+        "en": "2 Timothy",
+        "fa": "دوم تیموتائوس"
+      },
+      "chapter": 4,
+      "verse": 7,
+      "text": {
+        "en": "I have fought a good fight, I have finished my course, I have kept the faith.",
+        "fa": "جنگ نیکوی جنگیده‌ام و مسابقه را به پایان رسانیده‌ام و ایمان را نگاه داشته‌ام."
+      }
+    },
+    {
+      "id": 226,
+      "book": {
+        "en": "Titus",
+        "fa": "تیطس"
+      },
+      "chapter": 2,
+      "verse": 11,
+      "text": {
+        "en": "For the grace of God that bringeth salvation hath appeared to all men.",
+        "fa": "زیرا فیض خدا که نجات می‌دهد بر همه مردم ظاهر شده است."
+      }
+    },
+    {
+      "id": 227,
+      "book": {
+        "en": "Titus",
+        "fa": "تیطس"
+      },
+      "chapter": 3,
+      "verse": 5,
+      "text": {
+        "en": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost.",
+        "fa": "نه از اعمال نیکویی که ما کرده بودیم بلکه بر حسب رحمت خود ما را نجات داد به غسل تولد تازه و تازگی روح‌القدس."
+      }
+    },
+    {
+      "id": 228,
+      "book": {
+        "en": "Philemon",
+        "fa": "فیلیمون"
+      },
+      "chapter": 1,
+      "verse": 6,
+      "text": {
+        "en": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
+        "fa": "تا مشارکت ایمان تو در شناخت هر چیز نیکویی که در شما در مسیح عیسی است موثر گردد."
+      }
+    },
+    {
+      "id": 229,
+      "book": {
+        "en": "Hebrews",
+        "fa": "عبرانیان"
+      },
+      "chapter": 4,
+      "verse": 12,
+      "text": {
+        "en": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+        "fa": "زیرا کلام خدا زنده و موثر و از هر شمشیر دو دم تیزتر است و تا جدا کردن نفس و روح و مفاصل و مغزها نافذ است و افکار و نیات قلب را تمیز می‌دهد."
+      }
+    },
+    {
+      "id": 230,
+      "book": {
+        "en": "Hebrews",
+        "fa": "عبرانیان"
+      },
+      "chapter": 6,
+      "verse": 19,
+      "text": {
+        "en": "Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil.",
+        "fa": "که این امید را مثل لنگر جان داریم که هم مطمئن و هم ثابت است و به آنچه در پرده است داخل می‌شود."
+      }
+    },
+    {
+      "id": 231,
+      "book": {
+        "en": "Hebrews",
+        "fa": "عبرانیان"
+      },
+      "chapter": 10,
+      "verse": 24,
+      "text": {
+        "en": "And let us consider one another to provoke unto love and to good works.",
+        "fa": "و یکدیگر را ملاحظه کنیم تا به محبت و اعمال نیک تحریک نماییم."
+      }
+    },
+    {
+      "id": 232,
+      "book": {
+        "en": "Hebrews",
+        "fa": "عبرانیان"
+      },
+      "chapter": 11,
+      "verse": 1,
+      "text": {
+        "en": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+        "fa": "و ایمان، یقین امیدهای ما و برهان چیزهایی است که دیده نمی‌شود."
+      }
+    },
+    {
+      "id": 233,
+      "book": {
+        "en": "Hebrews",
+        "fa": "عبرانیان"
+      },
+      "chapter": 12,
+      "verse": 2,
+      "text": {
+        "en": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.",
+        "fa": "و نظر به عیسی کنیم که مبتدا و مکمل ایمان است که به جای آن شادی که پیش روی او گذاشته شده بود صلیب را تحمل کرد و خجلت را خوار شمرد و به دست راست تخت خدا نشست."
+      }
+    },
+    {
+      "id": 234,
+      "book": {
+        "en": "Hebrews",
+        "fa": "عبرانیان"
+      },
+      "chapter": 13,
+      "verse": 8,
+      "text": {
+        "en": "Jesus Christ the same yesterday, and to day, and for ever.",
+        "fa": "عیسی مسیح دیروز و امروز و تا ابدالآباد همان است."
+      }
+    },
+    {
+      "id": 235,
+      "book": {
+        "en": "James",
+        "fa": "یعقوب"
+      },
+      "chapter": 1,
+      "verse": 2,
+      "text": {
+        "en": "My brethren, count it all joy when ye fall into divers temptations.",
+        "fa": "ای برادران من وقتی در تجربه‌های گوناگون می‌افتید آن را کمال شادی دانید."
+      }
+    },
+    {
+      "id": 236,
+      "book": {
+        "en": "James",
+        "fa": "یعقوب"
+      },
+      "chapter": 1,
+      "verse": 5,
+      "text": {
+        "en": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+        "fa": "و اگر کسی از شما حکمت کم دارد از خدا بطلبد که به همه به سخاوت می‌دهد و ملامت نمی‌کند و به او داده خواهد شد."
+      }
+    },
+    {
+      "id": 237,
+      "book": {
+        "en": "James",
+        "fa": "یعقوب"
+      },
+      "chapter": 2,
+      "verse": 17,
+      "text": {
+        "en": "Even so faith, if it hath not works, is dead, being alone.",
+        "fa": "همچنین ایمان نیز اگر اعمال نداشته باشد در خودش مرده است."
+      }
+    },
+    {
+      "id": 238,
+      "book": {
+        "en": "James",
+        "fa": "یعقوب"
+      },
+      "chapter": 4,
+      "verse": 7,
+      "text": {
+        "en": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
+        "fa": "پس خود را به خدا تسلیم کنید. بر ابلیس مقاومت کنید تا از شما فرار کند."
+      }
+    },
+    {
+      "id": 239,
+      "book": {
+        "en": "James",
+        "fa": "یعقوب"
+      },
+      "chapter": 5,
+      "verse": 16,
+      "text": {
+        "en": "Confess your faults one to another, and pray one for another, that ye may be healed. The effectual fervent prayer of a righteous man availeth much.",
+        "fa": "پس گناهان خود را به یکدیگر اعتراف کنید و برای یکدیگر دعا کنید تا شفا یابید. دعای مرد عادل در عمل قوت زیادی دارد."
+      }
+    },
+    {
+      "id": 240,
+      "book": {
+        "en": "1 Peter",
+        "fa": "اول پطرس"
+      },
+      "chapter": 2,
+      "verse": 9,
+      "text": {
+        "en": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light.",
+        "fa": "لیکن شما طایفه برگزیده و کهانت سلطنتی و امت مقدس و قوم ملکیت هستید تا فضایل او را که شما را از ظلمت به نور عجیب خود خوانده است اعلام کنید."
+      }
+    },
+    {
+      "id": 241,
+      "book": {
+        "en": "1 Peter",
+        "fa": "اول پطرس"
+      },
+      "chapter": 3,
+      "verse": 15,
+      "text": {
+        "en": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear.",
+        "fa": "بلکه خداوند خدا را در دلهای خود مقدس بدارید و همیشه مستعد باشید تا هر کس از شما سبب امیدی که در شماست بپرسد با حلم و ترس جواب دهید."
+      }
+    },
+    {
+      "id": 242,
+      "book": {
+        "en": "1 Peter",
+        "fa": "اول پطرس"
+      },
+      "chapter": 4,
+      "verse": 8,
+      "text": {
+        "en": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+        "fa": "و بالاتر از همه چیز محبت شدید نسبت به یکدیگر داشته باشید زیرا محبت کثرت گناهان را می‌پوشاند."
+      }
+    },
+    {
+      "id": 243,
+      "book": {
+        "en": "1 Peter",
+        "fa": "اول پطرس"
+      },
+      "chapter": 5,
+      "verse": 7,
+      "text": {
+        "en": "Casting all your care upon him; for he careth for you.",
+        "fa": "تمام اندوه خود را بر او افکنید زیرا او برای شما فکر می‌کند."
+      }
+    },
+    {
+      "id": 244,
+      "book": {
+        "en": "2 Peter",
+        "fa": "دوم پطرس"
+      },
+      "chapter": 1,
+      "verse": 4,
+      "text": {
+        "en": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust.",
+        "fa": "که به آنها وعده‌های عظیم و گرانبها به ما داده شده تا به آنها شریک طبیعت الهی شوید و از فسادی که در جهان از طریق شهوت است خلاصی یابید."
+      }
+    },
+    {
+      "id": 245,
+      "book": {
+        "en": "2 Peter",
+        "fa": "دوم پطرس"
+      },
+      "chapter": 3,
+      "verse": 9,
+      "text": {
+        "en": "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.",
+        "fa": "خداوند در وعده خود تاخیر نمی‌کند چنانکه بعضی تاخیر می‌شمارند بلکه برای ما صبر می‌کند و نمی‌خواهد که کسی هلاک شود بلکه می‌خواهد که همه به توبه گرایند."
+      }
+    },
+    {
+      "id": 246,
+      "book": {
+        "en": "1 John",
+        "fa": "اول یوحنا"
+      },
+      "chapter": 1,
+      "verse": 9,
+      "text": {
+        "en": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+        "fa": "اگر گناهان خود را اعتراف کنیم او امین و عادل است تا گناهان ما را بیامرزد و ما را از هر ناراستی پاک کند."
+      }
+    },
+    {
+      "id": 247,
+      "book": {
+        "en": "1 John",
+        "fa": "اول یوحنا"
+      },
+      "chapter": 3,
+      "verse": 1,
+      "text": {
+        "en": "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.",
+        "fa": "ببینید چه محبتی پدر به ما داده است که فرزندان خدا خوانده شویم. از این سبب جهان ما را نمی‌شناسد چون او را نشناخت."
+      }
+    },
+    {
+      "id": 248,
+      "book": {
+        "en": "1 John",
+        "fa": "اول یوحنا"
+      },
+      "chapter": 4,
+      "verse": 7,
+      "text": {
+        "en": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.",
+        "fa": "ای عزیزان یکدیگر را محبت کنیم زیرا محبت از خداست و هر که محبت می‌کند از خدا مولود شده و خدا را می‌شناسد."
+      }
+    },
+    {
+      "id": 249,
+      "book": {
+        "en": "1 John",
+        "fa": "اول یوحنا"
+      },
+      "chapter": 4,
+      "verse": 19,
+      "text": {
+        "en": "We love him, because he first loved us.",
+        "fa": "ما محبت می‌کنیم چون او اول ما را محبت نمود."
+      }
+    },
+    {
+      "id": 250,
+      "book": {
+        "en": "1 John",
+        "fa": "اول یوحنا"
+      },
+      "chapter": 5,
+      "verse": 4,
+      "text": {
+        "en": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.",
+        "fa": "زیرا هر چه از خدا مولود شده است بر جهان غالب می‌آید و این است آن غلبه که بر جهان غالب شده یعنی ایمان ما."
+      }
+    },
+    {
+      "id": 251,
+      "book": {
+        "en": "2 John",
+        "fa": "دوم یوحنا"
+      },
+      "chapter": 1,
+      "verse": 6,
+      "text": {
+        "en": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.",
+        "fa": "و این است محبت که به احکام او رفتار کنیم. این است آن حکم که از ابتدا شنیده‌اید که در آن رفتار کنید."
+      }
+    },
+    {
+      "id": 252,
+      "book": {
+        "en": "3 John",
+        "fa": "سوم یوحنا"
+      },
+      "chapter": 1,
+      "verse": 4,
+      "text": {
+        "en": "I have no greater joy than to hear that my children walk in truth.",
+        "fa": "مرا خوشی‌ای بزرگتر از این نیست که بشنوم فرزندانم در راستی رفتار می‌کنند."
+      }
+    },
+    {
+      "id": 253,
+      "book": {
+        "en": "Jude",
+        "fa": "یهودا"
+      },
+      "chapter": 1,
+      "verse": 24,
+      "text": {
+        "en": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy.",
+        "fa": "و حال به او که قادر است شما را از لغزش محفوظ دارد و شما را بی‌عیب در حضور جلال خود با شادی عظیم بایستاند."
+      }
+    },
+    {
+      "id": 254,
+      "book": {
+        "en": "Revelation",
+        "fa": "مکاشفه"
+      },
+      "chapter": 3,
+      "verse": 20,
+      "text": {
+        "en": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.",
+        "fa": "اینک من بر در ایستاده‌ام و می‌کوبم. اگر کسی آواز مرا بشنود و در را بگشاید نزد او داخل خواهم شد و با او شام خواهم خورد و او با من."
+      }
+    },
+    {
+      "id": 255,
+      "book": {
+        "en": "Revelation",
+        "fa": "مکاشفه"
+      },
+      "chapter": 22,
+      "verse": 20,
+      "text": {
+        "en": "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.",
+        "fa": "آن که این چیزها را شهادت می‌دهد می‌گوید بلی به زودی می‌آیم. آمین. بیا ای خداوند عیسی."
+      }
+    },
+    {
+      "id": 256,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 12,
+      "verse": 2,
+      "text": {
+        "en": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing.",
+        "fa": "و تو را امتی عظیم خواهم ساخت و تو را برکت خواهم داد و نام تو را بزرگ خواهم کرد و تو برکت خواهی بود."
+      }
+    },
+    {
+      "id": 257,
+      "book": {
+        "en": "Exodus",
+        "fa": "خروج"
+      },
+      "chapter": 14,
+      "verse": 14,
+      "text": {
+        "en": "The LORD shall fight for you, and ye shall hold your peace.",
+        "fa": "خداوند برای شما جنگ خواهد کرد و شما خاموش خواهید بود."
+      }
+    },
+    {
+      "id": 258,
+      "book": {
+        "en": "Leviticus",
+        "fa": "لاویان"
+      },
+      "chapter": 19,
+      "verse": 18,
+      "text": {
+        "en": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.",
+        "fa": "انتقام مگیر و از قوم خود کینه‌ای به دل مگیر بلکه همسایه خود را مثل خود محبت نما. من یهوه هستم."
+      }
+    },
+    {
+      "id": 259,
+      "book": {
+        "en": "Numbers",
+        "fa": "اعداد"
+      },
+      "chapter": 6,
+      "verse": 24,
+      "text": {
+        "en": "The LORD bless thee, and keep thee.",
+        "fa": "خداوند تو را برکت دهد و تو را نگاه دارد."
+      }
+    },
+    {
+      "id": 260,
+      "book": {
+        "en": "Deuteronomy",
+        "fa": "تثنیه"
+      },
+      "chapter": 6,
+      "verse": 5,
+      "text": {
+        "en": "And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.",
+        "fa": "و یهوه خدای خود را به تمامی دل و تمامی جان و تمامی قوت خود محبت نما."
+      }
+    },
+    {
+      "id": 261,
+      "book": {
+        "en": "Joshua",
+        "fa": "یوشع"
+      },
+      "chapter": 1,
+      "verse": 9,
+      "text": {
+        "en": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
+        "fa": "آیا به تو حکم نکردم؟ قوی و دلیر باش و مترس و هراسان مباش زیرا یهوه خدایت با توست در هر جا که بروی."
+      }
+    },
+    {
+      "id": 262,
+      "book": {
+        "en": "Judges",
+        "fa": "داوران"
+      },
+      "chapter": 6,
+      "verse": 12,
+      "text": {
+        "en": "And the angel of the LORD appeared unto him, and said unto him, The LORD is with thee, thou mighty man of valour.",
+        "fa": "و فرشته خداوند بر او ظاهر شد و به او گفت یهوه با توست ای مرد شجاع."
+      }
+    },
+    {
+      "id": 263,
+      "book": {
+        "en": "Ruth",
+        "fa": "روت"
+      },
+      "chapter": 1,
+      "verse": 16,
+      "text": {
+        "en": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.",
+        "fa": "و روت گفت مرا مجبور مکن که تو را ترک کنم یا از پیروی تو برگردم زیرا هر جا که تو بروی من خواهم رفت و هر جا که تو اقامت کنی من اقامت خواهم کرد. قوم تو قوم من و خدای تو خدای من خواهد بود."
+      }
+    },
+    {
+      "id": 264,
+      "book": {
+        "en": "1 Samuel",
+        "fa": "اول سموئیل"
+      },
+      "chapter": 16,
+      "verse": 7,
+      "text": {
+        "en": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.",
+        "fa": "و خداوند به سموئیل گفت به رویش و بلندی قامتش منگر زیرا او را رد کرده‌ام زیرا خداوند چنانکه انسان می‌بیند نمی‌بیند زیرا انسان به ظاهر می‌نگرد اما خداوند به دل می‌نگرد."
+      }
+    },
+    {
+      "id": 265,
+      "book": {
+        "en": "2 Samuel",
+        "fa": "دوم سموئیل"
+      },
+      "chapter": 22,
+      "verse": 2,
+      "text": {
+        "en": "And he said, The LORD is my rock, and my fortress, and my deliverer.",
+        "fa": "و گفت یهوه صخره من و قلعه من و نجات‌دهنده من است."
+      }
+    },
+    {
+      "id": 266,
+      "book": {
+        "en": "1 Kings",
+        "fa": "اول پادشاهان"
+      },
+      "chapter": 8,
+      "verse": 27,
+      "text": {
+        "en": "But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?",
+        "fa": "اما آیا خدا حقیقتاً بر زمین ساکن خواهد شد؟ اینک آسمان و آسمان آسمانها تو را در بر نمی‌گیرد پس این خانه‌ای که بنا کرده‌ام چقدر کمتر."
+      }
+    },
+    {
+      "id": 267,
+      "book": {
+        "en": "2 Kings",
+        "fa": "دوم پادشاهان"
+      },
+      "chapter": 6,
+      "verse": 16,
+      "text": {
+        "en": "And he answered, Fear not: for they that be with us are more than they that be with them.",
+        "fa": "و او جواب داد مترس زیرا آنانی که با ما هستند بیشتر از آنانی هستند که با ایشانند."
+      }
+    },
+    {
+      "id": 268,
+      "book": {
+        "en": "1 Chronicles",
+        "fa": "اول تواریخ"
+      },
+      "chapter": 16,
+      "verse": 34,
+      "text": {
+        "en": "O give thanks unto the LORD; for he is good; for his mercy endureth for ever.",
+        "fa": "خداوند را شکر کنید زیرا نیکوست زیرا رحمت او تا به ابد است."
+      }
+    },
+    {
+      "id": 269,
+      "book": {
+        "en": "2 Chronicles",
+        "fa": "دوم تواریخ"
+      },
+      "chapter": 7,
+      "verse": 14,
+      "text": {
+        "en": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.",
+        "fa": "و اگر قوم من که به نام من خوانده شده‌اند خود را فروتن سازند و دعا کنند و روی مرا بطلبند و از راههای بد خود برگردند آنگاه من از آسمان خواهم شنید و گناه ایشان را خواهم آمرزید و زمین ایشان را شفا خواهم داد."
+      }
+    },
+    {
+      "id": 270,
+      "book": {
+        "en": "Ezra",
+        "fa": "عزرا"
+      },
+      "chapter": 3,
+      "verse": 11,
+      "text": {
+        "en": "And they sang together by course in praising and giving thanks unto the LORD; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid.",
+        "fa": "و ایشان با هم سرود خوانده خداوند را تسبیح و شکر می‌گفتند زیرا نیکوست زیرا رحمت او تا به ابد بر اسرائیل است. و تمامی قوم با آواز بلند فریاد برآوردند چون خداوند را تسبیح می‌گفتند زیرا بنیاد خانه خداوند گذاشته شد."
+      }
+    },
+    {
+      "id": 271,
+      "book": {
+        "en": "Nehemiah",
+        "fa": "نحمیا"
+      },
+      "chapter": 8,
+      "verse": 10,
+      "text": {
+        "en": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength.",
+        "fa": "و به ایشان گفت بروید و چربی بخورید و شیرینی بنوشید و حصه‌هایی برای کسانی که چیزی برای ایشان مهیا نشده بفرستید زیرا امروز برای خداوند ما مقدس است پس محزون مباشید زیرا شادی خداوند قوت شماست."
+      }
+    },
+    {
+      "id": 272,
+      "book": {
+        "en": "Esther",
+        "fa": "استر"
+      },
+      "chapter": 4,
+      "verse": 14,
+      "text": {
+        "en": "For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?",
+        "fa": "زیرا اگر تو در این وقت سکوت کنی رهایی و نجات برای یهودیان از جای دیگر پدید خواهد آمد اما تو و خاندان پدرت هلاک خواهید شد و کی داند که آیا برای چنین وقتی به پادشاهی رسیده‌ای."
+      }
+    },
+    {
+      "id": 273,
+      "book": {
+        "en": "Job",
+        "fa": "ایوب"
+      },
+      "chapter": 1,
+      "verse": 21,
+      "text": {
+        "en": "And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.",
+        "fa": "و گفت عریان از رحم مادرم بیرون آمدم و عریان بدانجا برمی‌گردم. یهوه داد و یهوه گرفت. نام یهوه متبارک باد."
+      }
+    },
+    {
+      "id": 274,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 1,
+      "verse": 1,
+      "text": {
+        "en": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.",
+        "fa": "خوشا به حال کسی که در مشورت شریران راه نمی‌رود و در راه گناهکاران نمی‌ایستد و در مجلس استهزاکنندگان نمی‌نشیند."
+      }
+    },
+    {
+      "id": 275,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 3,
+      "verse": 5,
+      "text": {
+        "en": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
+        "fa": "به خداوند به تمامی دل خود توکل کن و بر فهم خود تکیه منما."
+      }
+    },
+    {
+      "id": 276,
+      "book": {
+        "en": "Ecclesiastes",
+        "fa": "جامعه"
+      },
+      "chapter": 3,
+      "verse": 1,
+      "text": {
+        "en": "To every thing there is a season, and a time to every purpose under the heaven.",
+        "fa": "برای هر چیز زمانی و برای هر مقصودی تحت آسمان وقتی است."
+      }
+    },
+    {
+      "id": 277,
+      "book": {
+        "en": "Song of Solomon",
+        "fa": "غزل غزلهای سلیمان"
+      },
+      "chapter": 2,
+      "verse": 4,
+      "text": {
+        "en": "He brought me to the banqueting house, and his banner over me was love.",
+        "fa": "مرا به خانه شرابخانه آورد و پرچم او بر من محبت بود."
+      }
+    },
+    {
+      "id": 278,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 26,
+      "verse": 4,
+      "text": {
+        "en": "Trust ye in the LORD for ever: for in the LORD JEHOVAH is everlasting strength.",
+        "fa": "برای همیشه بر خداوند توکل کنید زیرا در یهوه خداوند قوت جاودانی است."
+      }
+    },
+    {
+      "id": 279,
+      "book": {
+        "en": "Jeremiah",
+        "fa": "ارمیا"
+      },
+      "chapter": 29,
+      "verse": 11,
+      "text": {
+        "en": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+        "fa": "زیرا من افکار خود را که درباره شما دارم می‌دانم می‌گوید خداوند افکار سلامتی و نه بلا تا آخرت و امیدواریتان را به شما بدهم."
+      }
+    },
+    {
+      "id": 280,
+      "book": {
+        "en": "Lamentations",
+        "fa": "مراثی ارمیا"
+      },
+      "chapter": 3,
+      "verse": 23,
+      "text": {
+        "en": "They are new every morning: great is thy faithfulness.",
+        "fa": "آنها هر صبح تازه می‌شوند. وفاداری تو عظیم است."
+      }
+    },
+    {
+      "id": 281,
+      "book": {
+        "en": "Ezekiel",
+        "fa": "حزقیال"
+      },
+      "chapter": 36,
+      "verse": 26,
+      "text": {
+        "en": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.",
+        "fa": "و دل تازه‌ای به شما خواهم داد و روح تازه‌ای در باطن شما خواهم نهاد و دل سنگی را از گوشت شما بیرون آورده دل گوشتی به شما خواهم داد."
+      }
+    },
+    {
+      "id": 282,
+      "book": {
+        "en": "Daniel",
+        "fa": "دانیال"
+      },
+      "chapter": 6,
+      "verse": 23,
+      "text": {
+        "en": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.",
+        "fa": "آنگاه پادشاه بسیار شاد شد و امر فرمود که دانیال را از چاه بیرون آورند. پس دانیال از چاه بیرون آورده شد و هیچ آسیب بر او یافت نشد زیرا به خدای خود ایمان داشت."
+      }
+    },
+    {
+      "id": 283,
+      "book": {
+        "en": "Hosea",
+        "fa": "هوشع"
+      },
+      "chapter": 6,
+      "verse": 6,
+      "text": {
+        "en": "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.",
+        "fa": "زیرا رحمت می‌خواهم و نه قربانی و معرفت خدا را بیشتر از قربانی‌های سوختنی."
+      }
+    },
+    {
+      "id": 284,
+      "book": {
+        "en": "Joel",
+        "fa": "یوئیل"
+      },
+      "chapter": 2,
+      "verse": 25,
+      "text": {
+        "en": "And I will restore to you the years that the locust hath eaten, the cankerworm, and the caterpiller, and the palmerworm, my great army which I sent among you.",
+        "fa": "و سالهایی را که ملخ خورده است برای شما ترمیم خواهم کرد یعنی ملخ و کرم و کرمک و ملخک لشکر عظیم من که در میان شما فرستادم."
+      }
+    },
+    {
+      "id": 285,
+      "book": {
+        "en": "Amos",
+        "fa": "عاموس"
+      },
+      "chapter": 5,
+      "verse": 24,
+      "text": {
+        "en": "But let judgment run down as waters, and righteousness as a mighty stream.",
+        "fa": "بلکه داوری مثل آب جاری و عدالت مثل نهر پرآب باشد."
+      }
+    },
+    {
+      "id": 286,
+      "book": {
+        "en": "Obadiah",
+        "fa": "عوبدیا"
+      },
+      "chapter": 1,
+      "verse": 17,
+      "text": {
+        "en": "But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.",
+        "fa": "اما در کوه صهیون نجات خواهد بود و آنجا مقدس خواهد بود و خاندان یعقوب میراث خود را تصرف خواهند کرد."
+      }
+    },
+    {
+      "id": 287,
+      "book": {
+        "en": "Jonah",
+        "fa": "یونس"
+      },
+      "chapter": 2,
+      "verse": 9,
+      "text": {
+        "en": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.",
+        "fa": "اما من با آواز شکرگزاری برای تو قربانی خواهم کرد و آنچه نذر کرده‌ام ادا خواهم نمود. نجات از آن خداوند است."
+      }
+    },
+    {
+      "id": 288,
+      "book": {
+        "en": "Micah",
+        "fa": "میکاه"
+      },
+      "chapter": 6,
+      "verse": 8,
+      "text": {
+        "en": "He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?",
+        "fa": "ای انسان او تو را نشان داده است که چه چیز نیکوست و خداوند از تو چه می‌خواهد مگر اینکه انصاف را بجا آوری و رحمت را دوست بداری و با خدای خود فروتنانه رفتار کنی."
+      }
+    },
+    {
+      "id": 289,
+      "book": {
+        "en": "Nahum",
+        "fa": "ناحوم"
+      },
+      "chapter": 1,
+      "verse": 7,
+      "text": {
+        "en": "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+        "fa": "خداوند نیکوست و در روز تنگی ملجأ قوی است و آنانی را که بر او توکل می‌کنند می‌شناسد."
+      }
+    },
+    {
+      "id": 290,
+      "book": {
+        "en": "Habakkuk",
+        "fa": "حبقوق"
+      },
+      "chapter": 2,
+      "verse": 4,
+      "text": {
+        "en": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.",
+        "fa": "اینک نفس متکبر در او راست نیست اما عادل به ایمان خود زیست خواهد کرد."
+      }
+    },
+    {
+      "id": 291,
+      "book": {
+        "en": "Zephaniah",
+        "fa": "صفنیا"
+      },
+      "chapter": 3,
+      "verse": 17,
+      "text": {
+        "en": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.",
+        "fa": "یهوه خدایت در میان تو قادر است و خواهد رهانید و به تو شادی خواهد کرد و در محبت خود ساکن خواهد شد و به تو با آواز شادی وجد خواهد کرد."
+      }
+    },
+    {
+      "id": 292,
+      "book": {
+        "en": "Haggai",
+        "fa": "حجی"
+      },
+      "chapter": 2,
+      "verse": 4,
+      "text": {
+        "en": "Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts.",
+        "fa": "اما حال قوی باش ای زربابل می‌گوید خداوند و قوی باش ای یهوشع پسر یهوصادق کاهن اعظم و قوی باش ای تمامی قوم زمین می‌گوید خداوند و عمل کنید زیرا من با شما هستم می‌گوید یهوه صبایوت."
+      }
+    },
+    {
+      "id": 293,
+      "book": {
+        "en": "Zechariah",
+        "fa": "زکریا"
+      },
+      "chapter": 4,
+      "verse": 6,
+      "text": {
+        "en": "Then he answered and spake unto me, saying, This is the word of the LORD unto Zerubbabel, saying, Not by might, nor by power, but by my spirit, saith the LORD of hosts.",
+        "fa": "پس جواب داده به من گفت این است کلام خداوند به زربابل که می‌گوید نه به قوت و نه به توانایی بلکه به روح من می‌گوید یهوه صبایوت."
+      }
+    },
+    {
+      "id": 294,
+      "book": {
+        "en": "Malachi",
+        "fa": "ملاکی"
+      },
+      "chapter": 3,
+      "verse": 10,
+      "text": {
+        "en": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+        "fa": "تمامی عشر را به خزانه بیاورید تا در خانه من خوراکی باشد و مرا در این امر امتحان کنید می‌گوید یهوه صبایوت اگر درهای آسمان را برای شما نگشایم و برکتی بر شما نریزم که جای کافی نباشد."
+      }
+    },
+    {
+      "id": 295,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 5,
+      "verse": 8,
+      "text": {
+        "en": "Blessed are the pure in heart: for they shall see God.",
+        "fa": "خوشا به حال پاکدلان زیرا ایشان خدا را خواهند دید."
+      }
+    },
+    {
+      "id": 296,
+      "book": {
+        "en": "Mark",
+        "fa": "مرقس"
+      },
+      "chapter": 10,
+      "verse": 27,
+      "text": {
+        "en": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible.",
+        "fa": "عیسی ایشان را نگریسته گفت نزد انسانها محال است اما نزد خدا نه زیرا نزد خدا همه چیز ممکن است."
+      }
+    },
+    {
+      "id": 297,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 12,
+      "verse": 32,
+      "text": {
+        "en": "Fear not, little flock; for it is your Father's good pleasure to give you the kingdom.",
+        "fa": "مترسید ای گله کوچک زیرا اراده پدر شما این است که ملکوت را به شما بدهد."
+      }
+    },
+    {
+      "id": 298,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 14,
+      "verse": 27,
+      "text": {
+        "en": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
+        "fa": "سلامی برای شما می‌گذارم سلام خود را به شما می‌دهم چنانکه جهان می‌دهد من به شما نمی‌دهم. دل شما مضطرب نشود و نترسد."
+      }
+    },
+    {
+      "id": 299,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 4,
+      "verse": 12,
+      "text": {
+        "en": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved.",
+        "fa": "و در هیچ کس دیگر نجات نیست زیرا نامی دیگر تحت آسمان به آدمیان داده نشده که بدان باید نجات یابیم."
+      }
+    },
+    {
+      "id": 300,
+      "book": {
+        "en": "Romans",
+        "fa": "رومیان"
+      },
+      "chapter": 12,
+      "verse": 2,
+      "text": {
+        "en": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.",
+        "fa": "و مطابق این عالم مباشید بلکه به تجدید ذهن خود متحول شوید تا بتوانید اراده نیک و پسندیده و کامل خدا را تشخیص دهید."
+      }
+    },
+    {
+      "id": 301,
+      "book": {
+        "en": "1 Corinthians",
+        "fa": "اول قرنتیان"
+      },
+      "chapter": 13,
+      "verse": 4,
+      "text": {
+        "en": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up.",
+        "fa": "محبت صبر می‌کند و مهربان است. محبت حسد نمی‌برد. محبت فخر نمی‌کند و متکبر نیست."
+      }
+    },
+    {
+      "id": 302,
+      "book": {
+        "en": "2 Corinthians",
+        "fa": "دوم قرنتیان"
+      },
+      "chapter": 5,
+      "verse": 17,
+      "text": {
+        "en": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+        "fa": "پس اگر کسی در مسیح باشد خلق جدید است. چیزهای کهنه درگذشت. اینک همه چیز تازه شده است."
+      }
+    },
+    {
+      "id": 303,
+      "book": {
+        "en": "Galatians",
+        "fa": "غلاطیان"
+      },
+      "chapter": 5,
+      "verse": 22,
+      "text": {
+        "en": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith.",
+        "fa": "اما ثمره روح محبت و شادی و سلامتی و صبر و مهربانی و نیکویی و ایمان است."
+      }
+    },
+    {
+      "id": 304,
+      "book": {
+        "en": "Ephesians",
+        "fa": "افسسیان"
+      },
+      "chapter": 2,
+      "verse": 8,
+      "text": {
+        "en": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God.",
+        "fa": "زیرا به فیض نجات یافته‌اید و این از شما نیست بلکه عطای خداست."
+      }
+    },
+    {
+      "id": 305,
+      "book": {
+        "en": "Philippians",
+        "fa": "فیلیپیان"
+      },
+      "chapter": 2,
+      "verse": 3,
+      "text": {
+        "en": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+        "fa": "هیچ‌چیز را از روی نزاع یا خودپسندی مکنید بلکه با فروتنی یکدیگر را از خود بهتر بدانید."
+      }
+    },
+    {
+      "id": 306,
+      "book": {
+        "en": "Colossians",
+        "fa": "کولسیان"
+      },
+      "chapter": 3,
+      "verse": 23,
+      "text": {
+        "en": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men.",
+        "fa": "و هر چه می‌کنید از دل بکنید چنانکه برای خداوند و نه برای انسانها."
+      }
+    },
+    {
+      "id": 307,
+      "book": {
+        "en": "1 Thessalonians",
+        "fa": "اول تسالونیکیان"
+      },
+      "chapter": 5,
+      "verse": 18,
+      "text": {
+        "en": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+        "fa": "در هر چیز شکر کنید زیرا این اراده خداست در مسیح عیسی درباره شما."
+      }
+    },
+    {
+      "id": 308,
+      "book": {
+        "en": "2 Thessalonians",
+        "fa": "دوم تسالونیکیان"
+      },
+      "chapter": 3,
+      "verse": 3,
+      "text": {
+        "en": "But the Lord is faithful, who shall stablish you, and keep you from evil.",
+        "fa": "اما خداوند امین است که شما را استوار خواهد ساخت و از شریر محفوظ خواهد داشت."
+      }
+    },
+    {
+      "id": 309,
+      "book": {
+        "en": "1 Timothy",
+        "fa": "اول تیموتائوس"
+      },
+      "chapter": 4,
+      "verse": 12,
+      "text": {
+        "en": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+        "fa": "هیچ‌کس جوانی تو را حقیر نشمارد بلکه در کلام و رفتار و محبت و روح و ایمان و طهارت برای ایمانداران نمونه باش."
+      }
+    },
+    {
+      "id": 310,
+      "book": {
+        "en": "2 Timothy",
+        "fa": "دوم تیموتائوس"
+      },
+      "chapter": 3,
+      "verse": 16,
+      "text": {
+        "en": "All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness.",
+        "fa": "تمامی کتب مقدس الهام خداست و برای تعلیم و توبیخ و اصلاح و تربیت در عدالت مفید است."
+      }
+    },
+    {
+      "id": 311,
+      "book": {
+        "en": "Titus",
+        "fa": "تیطس"
+      },
+      "chapter": 2,
+      "verse": 11,
+      "text": {
+        "en": "For the grace of God that bringeth salvation hath appeared to all men.",
+        "fa": "زیرا فیض خدا که نجات می‌بخشد بر تمامی آدمیان ظاهر شده است."
+      }
+    },
+    {
+      "id": 312,
+      "book": {
+        "en": "Philemon",
+        "fa": "فیلیمون"
+      },
+      "chapter": 1,
+      "verse": 6,
+      "text": {
+        "en": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
+        "fa": "تا مشارکت ایمان تو در شناخت هر چیز نیکویی که در شما در مسیح عیسی است موثر گردد."
+      }
+    },
+    {
+      "id": 313,
+      "book": {
+        "en": "Hebrews",
+        "fa": "عبرانیان"
+      },
+      "chapter": 11,
+      "verse": 1,
+      "text": {
+        "en": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+        "fa": "و ایمان یقین چیزهایی است که امید داریم و برهان چیزهایی که نمی‌بینیم."
+      }
+    },
+    {
+      "id": 314,
+      "book": {
+        "en": "James",
+        "fa": "یعقوب"
+      },
+      "chapter": 1,
+      "verse": 5,
+      "text": {
+        "en": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him.",
+        "fa": "و اگر کسی از شما حکمت کم دارد از خدا بخواهد که به همه بخشنده است و ملامت نمی‌کند و به او داده خواهد شد."
+      }
+    },
+    {
+      "id": 315,
+      "book": {
+        "en": "1 Peter",
+        "fa": "اول پطرس"
+      },
+      "chapter": 3,
+      "verse": 15,
+      "text": {
+        "en": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear.",
+        "fa": "بلکه خداوند خدا را در دلهای خود مقدس بدارید و همیشه مستعد باشید تا هر کس از شما درباره امیدواری که در شما است سوال کند جواب دهید با حلم و ترس."
+      }
+    },
+    {
+      "id": 316,
+      "book": {
+        "en": "2 Peter",
+        "fa": "دوم پطرس"
+      },
+      "chapter": 1,
+      "verse": 3,
+      "text": {
+        "en": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue.",
+        "fa": "چنانکه قوت الهی او هر چیز را که برای حیات و دینداری لازم است به ما عطا کرده است از طریق شناخت او که ما را به جلال و فضیلت خوانده است."
+      }
+    },
+    {
+      "id": 317,
+      "book": {
+        "en": "1 John",
+        "fa": "اول یوحنا"
+      },
+      "chapter": 2,
+      "verse": 15,
+      "text": {
+        "en": "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.",
+        "fa": "جهان را و آنچه در جهان است دوست مدارید. اگر کسی جهان را دوست بدارد محبت پدر در او نیست."
+      }
+    },
+    {
+      "id": 318,
+      "book": {
+        "en": "2 John",
+        "fa": "دوم یوحنا"
+      },
+      "chapter": 1,
+      "verse": 9,
+      "text": {
+        "en": "Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.",
+        "fa": "هر کس تجاوز کند و در تعلیم مسیح ثابت نباشد خدا را ندارد. آن که در تعلیم مسیح ثابت است هم پدر و هم پسر را دارد."
+      }
+    },
+    {
+      "id": 319,
+      "book": {
+        "en": "3 John",
+        "fa": "سوم یوحنا"
+      },
+      "chapter": 1,
+      "verse": 11,
+      "text": {
+        "en": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.",
+        "fa": "ای عزیز از بدی پیروی مکن بلکه از نیکی. آن که نیکی می‌کند از خداست اما آن که بدی می‌کند خدا را ندیده است."
+      }
+    },
+    {
+      "id": 320,
+      "book": {
+        "en": "Jude",
+        "fa": "یهودا"
+      },
+      "chapter": 1,
+      "verse": 21,
+      "text": {
+        "en": "Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.",
+        "fa": "خود را در محبت خدا نگاه دارید و منتظر رحمت خداوند ما عیسی مسیح باشید تا حیات جاودانی یابید."
+      }
+    },
+    {
+      "id": 321,
+      "book": {
+        "en": "Revelation",
+        "fa": "مکاشفه"
+      },
+      "chapter": 1,
+      "verse": 8,
+      "text": {
+        "en": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+        "fa": "من الف و ی هستم یعنی اول و آخر می‌گوید خداوند که هست و بود و خواهد آمد قادر مطلق."
+      }
+    },
+    {
+      "id": 322,
+      "book": {
+        "en": "Genesis",
+        "fa": "پیدایش"
+      },
+      "chapter": 15,
+      "verse": 6,
+      "text": {
+        "en": "And he believed in the LORD; and he counted it to him for righteousness.",
+        "fa": "و او به خداوند ایمان آورد و آن را برای او عدالت شمرد."
+      }
+    },
+    {
+      "id": 323,
+      "book": {
+        "en": "Exodus",
+        "fa": "خروج"
+      },
+      "chapter": 20,
+      "verse": 12,
+      "text": {
+        "en": "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
+        "fa": "پدر و مادر خود را احترام کن تا روزهای تو در زمینی که یهوه خدایت به تو می‌دهد دراز باشد."
+      }
+    },
+    {
+      "id": 324,
+      "book": {
+        "en": "Leviticus",
+        "fa": "لاویان"
+      },
+      "chapter": 20,
+      "verse": 26,
+      "text": {
+        "en": "And ye shall be holy unto me: for I the LORD am holy, and have severed you from other people, that ye should be mine.",
+        "fa": "و برای من مقدس خواهید بود زیرا من یهوه مقدس هستم و شما را از سایر قوم‌ها جدا کرده‌ام تا مال من باشید."
+      }
+    },
+    {
+      "id": 325,
+      "book": {
+        "en": "Numbers",
+        "fa": "اعداد"
+      },
+      "chapter": 14,
+      "verse": 18,
+      "text": {
+        "en": "The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.",
+        "fa": "خداوند دیرخشم و بسیار رحیم است و گناه و عصیان را می‌آمرزد و گناهکار را هرگز بی‌سزا نمی‌گذارد و گناه پدران را بر پسران تا پشت سوم و چهارم می‌رساند."
+      }
+    },
+    {
+      "id": 326,
+      "book": {
+        "en": "Deuteronomy",
+        "fa": "تثنیه"
+      },
+      "chapter": 10,
+      "verse": 12,
+      "text": {
+        "en": "And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul.",
+        "fa": "و حال ای اسرائیل یهوه خدایت از تو چه می‌خواهد مگر اینکه از یهوه خدایت بترسی و در تمامی راههای او رفتار کنی و او را محبت کنی و یهوه خدایت را به تمامی دل و تمامی جان خود خدمت کنی."
+      }
+    },
+    {
+      "id": 327,
+      "book": {
+        "en": "Joshua",
+        "fa": "یوشع"
+      },
+      "chapter": 24,
+      "verse": 15,
+      "text": {
+        "en": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.",
+        "fa": "و اگر در نظر شما بد است که یهوه را خدمت کنید امروز برای خود انتخاب کنید که چه کسی را خدمت خواهید کرد. آیا خدایانی را که پدران شما در آن طرف نهر خدمت می‌کردند یا خدایان اموریان را که در زمین ایشان ساکن هستید. اما من و خاندانم یهوه را خدمت خواهیم کرد."
+      }
+    },
+    {
+      "id": 328,
+      "book": {
+        "en": "Judges",
+        "fa": "داوران"
+      },
+      "chapter": 7,
+      "verse": 20,
+      "text": {
+        "en": "And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow withal: and they cried, The sword of the LORD, and of Gideon.",
+        "fa": "و سه دسته شیپورها را نواختند و کوزه‌ها را شکستند و مشعلها را در دست چپ خود نگاه داشتند و شیپورها را در دست راست خود تا بنوازند و فریاد برآوردند شمشیر خداوند و جدعون."
+      }
+    },
+    {
+      "id": 329,
+      "book": {
+        "en": "Ruth",
+        "fa": "روت"
+      },
+      "chapter": 2,
+      "verse": 12,
+      "text": {
+        "en": "The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.",
+        "fa": "خداوند عمل تو را جزا دهد و مزد کامل تو از یهوه خدای اسرائیل داده شود که زیر بالهای او پناه آورده‌ای."
+      }
+    },
+    {
+      "id": 330,
+      "book": {
+        "en": "1 Samuel",
+        "fa": "اول سموئیل"
+      },
+      "chapter": 17,
+      "verse": 45,
+      "text": {
+        "en": "Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied.",
+        "fa": "و داود به فلسطینی گفت تو با شمشیر و نیزه و سپر به سوی من می‌آیی اما من به نام یهوه صبایوت خدای لشکرهای اسرائیل که او را اهانت کرده‌ای به سوی تو می‌آیم."
+      }
+    },
+    {
+      "id": 331,
+      "book": {
+        "en": "2 Samuel",
+        "fa": "دوم سموئیل"
+      },
+      "chapter": 23,
+      "verse": 3,
+      "text": {
+        "en": "The God of Israel said, the Rock of Israel spake to me, He that ruleth over men must be just, ruling in the fear of God.",
+        "fa": "خدای اسرائیل گفت و صخره اسرائیل به من گفت کسی که بر انسانها حکمرانی می‌کند عادل باشد و در ترس خدا حکمرانی کند."
+      }
+    },
+    {
+      "id": 332,
+      "book": {
+        "en": "1 Kings",
+        "fa": "اول پادشاهان"
+      },
+      "chapter": 18,
+      "verse": 21,
+      "text": {
+        "en": "And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word.",
+        "fa": "و ایلیا نزد تمامی قوم آمده گفت تا به کی در میان دو فکر متحیر خواهید بود؟ اگر یهوه خداست او را پیروی کنید و اگر بعل است او را پیروی کنید. و قوم یک کلمه جواب ندادند."
+      }
+    },
+    {
+      "id": 333,
+      "book": {
+        "en": "2 Kings",
+        "fa": "دوم پادشاهان"
+      },
+      "chapter": 17,
+      "verse": 39,
+      "text": {
+        "en": "But the LORD your God ye shall fear; and he shall deliver you out of the hand of all your enemies.",
+        "fa": "اما یهوه خدای خود را بترسید و او شما را از دست تمامی دشمنان شما رهایی خواهد داد."
+      }
+    },
+    {
+      "id": 334,
+      "book": {
+        "en": "1 Chronicles",
+        "fa": "اول تواریخ"
+      },
+      "chapter": 17,
+      "verse": 20,
+      "text": {
+        "en": "O LORD, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears.",
+        "fa": "ای یهوه هیچ‌کس مثل تو نیست و خدایی جز تو نیست چنانکه به گوشهای خود شنیده‌ایم."
+      }
+    },
+    {
+      "id": 335,
+      "book": {
+        "en": "2 Chronicles",
+        "fa": "دوم تواریخ"
+      },
+      "chapter": 20,
+      "verse": 15,
+      "text": {
+        "en": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God's.",
+        "fa": "و گفت ای تمامی یهودا و ای ساکنان اورشلیم و ای پادشاه یهوشافاط بشنوید. یهوه به شما چنین می‌گوید از این جمعیت عظیم مترسید و هراسان مباشید زیرا جنگ از آن شما نیست بلکه از آن خداست."
+      }
+    },
+    {
+      "id": 336,
+      "book": {
+        "en": "Ezra",
+        "fa": "عزرا"
+      },
+      "chapter": 8,
+      "verse": 22,
+      "text": {
+        "en": "For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him.",
+        "fa": "زیرا از پادشاه خجالت کشیدم که سربازان و سواران بخواهم تا ما را در راه از دشمن محافظت کنند زیرا به پادشاه گفته بودیم دست خدای ما بر همه کسانی که او را می‌طلبند برای نیکویی است اما قوت و غضب او بر همه کسانی که او را ترک می‌کنند."
+      }
+    },
+    {
+      "id": 337,
+      "book": {
+        "en": "Nehemiah",
+        "fa": "نحمیا"
+      },
+      "chapter": 9,
+      "verse": 17,
+      "text": {
+        "en": "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.",
+        "fa": "و اطاعت نکردند و معجزات تو را که در میان ایشان کرده بودی به یاد نیاوردند و گردنهای خود را سخت ساختند و در تمرد خود سرداری تعیین کردند تا به بندگی خود برگردند. اما تو خدای بخشنده و رحیم و دیرخشم و بسیار رحیم هستی و ایشان را ترک نکردی."
+      }
+    },
+    {
+      "id": 338,
+      "book": {
+        "en": "Esther",
+        "fa": "استر"
+      },
+      "chapter": 8,
+      "verse": 17,
+      "text": {
+        "en": "And in every province, and in every city, whithersoever the king's commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them.",
+        "fa": "و در هر ولایت و در هر شهری که حکم پادشاه و فرمان او رسید برای یهودیان شادی و خوشی و ضیافت و روز نیک بود و بسیاری از قوم زمین یهودی شدند زیرا ترس یهودیان بر ایشان افتاده بود."
+      }
+    },
+    {
+      "id": 339,
+      "book": {
+        "en": "Job",
+        "fa": "ایوب"
+      },
+      "chapter": 2,
+      "verse": 10,
+      "text": {
+        "en": "But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.",
+        "fa": "اما او به او گفت مثل یکی از زنان احمق سخن می‌گویی. آیا نیکویی را از دست خدا می‌پذیریم و بدی را نپذیریم؟ در تمامی این امور ایوب به لبهای خود گناه نکرد."
+      }
+    },
+    {
+      "id": 340,
+      "book": {
+        "en": "Psalms",
+        "fa": "مزامیر"
+      },
+      "chapter": 8,
+      "verse": 1,
+      "text": {
+        "en": "O LORD our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.",
+        "fa": "ای یهوه خدای ما چه عظیم است نام تو در تمامی زمین که جلال خود را بالای آسمانها نهاده‌ای."
+      }
+    },
+    {
+      "id": 341,
+      "book": {
+        "en": "Proverbs",
+        "fa": "امثال"
+      },
+      "chapter": 4,
+      "verse": 7,
+      "text": {
+        "en": "Wisdom is the principal thing; therefore get wisdom: and with all thy getting get understanding.",
+        "fa": "حکمت اصل است پس حکمت را تحصیل کن و در تمامی تحصیلات خود فهم را تحصیل کن."
+      }
+    },
+    {
+      "id": 342,
+      "book": {
+        "en": "Ecclesiastes",
+        "fa": "جامعه"
+      },
+      "chapter": 12,
+      "verse": 13,
+      "text": {
+        "en": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
+        "fa": "خلاصه سخن همه چیز شنیده شد. از خدا بترس و احکام او را نگاه دار زیرا این است تمامی وظیفه انسان."
+      }
+    },
+    {
+      "id": 343,
+      "book": {
+        "en": "Song of Solomon",
+        "fa": "غزل غزلهای سلیمان"
+      },
+      "chapter": 8,
+      "verse": 7,
+      "text": {
+        "en": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.",
+        "fa": "آبهای بسیار نمی‌توانند محبت را خاموش کنند و سیلابها نمی‌توانند آن را غرق کنند. اگر کسی تمامی اموال خانه خود را برای محبت بدهد آن را کاملاً حقیر خواهند شمرد."
+      }
+    },
+    {
+      "id": 344,
+      "book": {
+        "en": "Isaiah",
+        "fa": "اشعیا"
+      },
+      "chapter": 55,
+      "verse": 8,
+      "text": {
+        "en": "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.",
+        "fa": "زیرا افکار من افکار شما نیست و راههای شما راههای من نیست می‌گوید یهوه."
+      }
+    },
+    {
+      "id": 345,
+      "book": {
+        "en": "Jeremiah",
+        "fa": "ارمیا"
+      },
+      "chapter": 33,
+      "verse": 3,
+      "text": {
+        "en": "Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.",
+        "fa": "مرا بخوان و من تو را جواب خواهم داد و چیزهای عظیم و قوی را که نمی‌دانی به تو خواهم نمود."
+      }
+    },
+    {
+      "id": 346,
+      "book": {
+        "en": "Lamentations",
+        "fa": "مراثی ارمیا"
+      },
+      "chapter": 5,
+      "verse": 19,
+      "text": {
+        "en": "Thou, O LORD, remainest for ever; thy throne from generation to generation.",
+        "fa": "تو ای یهوه تا به ابد باقی هستی و تخت تو از نسلی تا نسلی."
+      }
+    },
+    {
+      "id": 347,
+      "book": {
+        "en": "Ezekiel",
+        "fa": "حزقیال"
+      },
+      "chapter": 37,
+      "verse": 27,
+      "text": {
+        "en": "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.",
+        "fa": "و مسکن من نیز در میان ایشان خواهد بود و من خدای ایشان خواهم بود و ایشان قوم من خواهند بود."
+      }
+    },
+    {
+      "id": 348,
+      "book": {
+        "en": "Daniel",
+        "fa": "دانیال"
+      },
+      "chapter": 12,
+      "verse": 3,
+      "text": {
+        "en": "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.",
+        "fa": "و آنانی که حکیم هستند مثل روشنایی فلک خواهند درخشید و آنانی که بسیاری را به عدالت برمی‌گردانند مثل ستارگان تا به ابدالاباد."
+      }
+    },
+    {
+      "id": 349,
+      "book": {
+        "en": "Hosea",
+        "fa": "هوشع"
+      },
+      "chapter": 14,
+      "verse": 9,
+      "text": {
+        "en": "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein.",
+        "fa": "کیست حکیم که این چیزها را بفهمد؟ و کیست فهیم که آنها را بداند؟ زیرا راههای یهوه راست است و عادلان در آنها خواهند رفت اما متعدیان در آنها خواهند لغزید."
+      }
+    },
+    {
+      "id": 350,
+      "book": {
+        "en": "Joel",
+        "fa": "یوئیل"
+      },
+      "chapter": 3,
+      "verse": 10,
+      "text": {
+        "en": "Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong.",
+        "fa": "گاوآهنهای خود را به شمشیرها و داسهای خود را به نیزه‌ها تبدیل کنید. ضعیف بگوید من قوی هستم."
+      }
+    },
+    {
+      "id": 351,
+      "book": {
+        "en": "Amos",
+        "fa": "عاموس"
+      },
+      "chapter": 9,
+      "verse": 13,
+      "text": {
+        "en": "Behold, the days come, saith the LORD, that the plowman shall overtake the reaper, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.",
+        "fa": "اینک روزها می‌آید می‌گوید یهوه که شخم‌زن دروگر را خواهد رسید و پاکننده انگور بذرافشان را و کوهها شراب شیرین خواهند چکاند و تمامی تپه‌ها ذوب خواهند شد."
+      }
+    },
+    {
+      "id": 352,
+      "book": {
+        "en": "Obadiah",
+        "fa": "عوبدیا"
+      },
+      "chapter": 1,
+      "verse": 15,
+      "text": {
+        "en": "For the day of the LORD is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.",
+        "fa": "زیرا روز یهوه نزد تمامی امت‌ها است. چنانکه تو کرده‌ای به تو نیز خواهد شد. مزد تو بر سر خودت خواهد برگشت."
+      }
+    },
+    {
+      "id": 353,
+      "book": {
+        "en": "Jonah",
+        "fa": "یونس"
+      },
+      "chapter": 4,
+      "verse": 2,
+      "text": {
+        "en": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
+        "fa": "و نزد خداوند دعا کرده گفت ای یهوه آیا این سخن من نبود وقتی که در سرزمین خود بودم؟ از این سبب پیش از این به ترشیش فرار کردم زیرا می‌دانستم که تو خدای بخشنده و رحیم و دیرخشم و بسیار رحیم هستی و از بدی پشیمان می‌شوی."
+      }
+    },
+    {
+      "id": 354,
+      "book": {
+        "en": "Micah",
+        "fa": "میکاه"
+      },
+      "chapter": 7,
+      "verse": 7,
+      "text": {
+        "en": "Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.",
+        "fa": "اما من به خداوند نظر خواهم کرد و منتظر خدای نجات خود خواهم بود. خدای من مرا خواهد شنید."
+      }
+    },
+    {
+      "id": 355,
+      "book": {
+        "en": "Nahum",
+        "fa": "ناحوم"
+      },
+      "chapter": 1,
+      "verse": 15,
+      "text": {
+        "en": "Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.",
+        "fa": "اینک بر کوهها پایهای مبشر که سلامتی را اعلام می‌کند. ای یهودا عیدهای خود را نگاه دار و نذرهای خود را ادا کن زیرا دیگر شریر از تو نخواهد گذشت. او کاملاً منقطع شده است."
+      }
+    },
+    {
+      "id": 356,
+      "book": {
+        "en": "Habakkuk",
+        "fa": "حبقوق"
+      },
+      "chapter": 3,
+      "verse": 19,
+      "text": {
+        "en": "The LORD God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+        "fa": "یهوه خداوند قوت من است و پایهای مرا مثل پایهای آهو خواهد ساخت و مرا بر بلندیهای من خواهد راند. برای رهبر سرایندگان بر آلات موسیقی من."
+      }
+    },
+    {
+      "id": 357,
+      "book": {
+        "en": "Zephaniah",
+        "fa": "صفنیا"
+      },
+      "chapter": 3,
+      "verse": 20,
+      "text": {
+        "en": "At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.",
+        "fa": "در آن وقت شما را خواهم آورد و در زمانی که شما را جمع کنم شما را نام و ستایش در میان تمامی قومهای زمین خواهم ساخت وقتی که اسیری شما را پیش چشمان شما برگردانم می‌گوید یهوه."
+      }
+    },
+    {
+      "id": 358,
+      "book": {
+        "en": "Haggai",
+        "fa": "حجی"
+      },
+      "chapter": 2,
+      "verse": 9,
+      "text": {
+        "en": "The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts.",
+        "fa": "جلال این خانه اخیر از خانه اول بزرگتر خواهد بود می‌گوید یهوه صبایوت و در این مکان سلامتی خواهم داد می‌گوید یهوه صبایوت."
+      }
+    },
+    {
+      "id": 359,
+      "book": {
+        "en": "Zechariah",
+        "fa": "زکریا"
+      },
+      "chapter": 9,
+      "verse": 9,
+      "text": {
+        "en": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.",
+        "fa": "ای دختر صهیون بسیار شادی کن و ای دختر اورشلیم فریاد برآور. اینک پادشاه تو نزد تو می‌آید. او عادل و نجات‌دهنده است و فروتن و بر الاغ و بر کره الاغ سوار است."
+      }
+    },
+    {
+      "id": 360,
+      "book": {
+        "en": "Malachi",
+        "fa": "ملاکی"
+      },
+      "chapter": 4,
+      "verse": 2,
+      "text": {
+        "en": "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+        "fa": "اما برای شما که از نام من می‌ترسید آفتاب عدالت طلوع خواهد کرد و شفا در بالهای او خواهد بود و شما بیرون خواهید رفت و مثل گوساله‌های پرواری خواهید جهید."
+      }
+    },
+    {
+      "id": 361,
+      "book": {
+        "en": "Matthew",
+        "fa": "متی"
+      },
+      "chapter": 11,
+      "verse": 28,
+      "text": {
+        "en": "Come unto me, all ye that labour and are heavy laden, and I will give you rest.",
+        "fa": "بیایید نزد من ای تمامی زحمت‌کشان و گران‌باران و من شما را آرامی خواهم داد."
+      }
+    },
+    {
+      "id": 362,
+      "book": {
+        "en": "Mark",
+        "fa": "مرقس"
+      },
+      "chapter": 16,
+      "verse": 15,
+      "text": {
+        "en": "And he said unto them, Go ye into all the world, and preach the gospel to every creature.",
+        "fa": "و به ایشان گفت بروید در تمامی جهان و انجیل را به هر مخلوقی موعظه کنید."
+      }
+    },
+    {
+      "id": 363,
+      "book": {
+        "en": "Luke",
+        "fa": "لوقا"
+      },
+      "chapter": 24,
+      "verse": 46,
+      "text": {
+        "en": "And said unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day.",
+        "fa": "و به ایشان گفت چنانکه مکتوب است مسیح می‌بایست رنج بکشد و در روز سوم از مردگان برخیزد."
+      }
+    },
+    {
+      "id": 364,
+      "book": {
+        "en": "John",
+        "fa": "یوحنا"
+      },
+      "chapter": 16,
+      "verse": 33,
+      "text": {
+        "en": "These things I have spoken unto you, that in me ye might have peace. In the world ye shall have tribulation: but be of good cheer; I have overcome the world.",
+        "fa": "این چیزها را به شما گفتم تا در من سلامتی داشته باشید. در جهان تنگی خواهید داشت اما خاطر جمع باشید من بر جهان غالب شده‌ام."
+      }
+    },
+    {
+      "id": 365,
+      "book": {
+        "en": "Acts",
+        "fa": "اعمال"
+      },
+      "chapter": 1,
+      "verse": 8,
+      "text": {
+        "en": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.",
+        "fa": "اما چون روح‌القدس بر شما آید قوت خواهید یافت و در اورشلیم و تمامی یهودیه و سامره و تا اقصای زمین برای من شاهد خواهید بود."
+      }
+    }
+  ],
+  "metadata": {
+    "description": "۳۶۵ آیه متنوع از کتاب مقدس به زبان فارسی (POV) و انگلیسی (KJV)",
+    "total_verses": 365,
+    "languages": {
+      "persian": "POV (Persian Open Version)",
+      "english": "KJV (King James Version)"
+    },
+    "created_date": "2024"
+  }
+}
